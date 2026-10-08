@@ -1,23 +1,23 @@
 # RAG-AI
 A modern AI chatbot built with Retrieval-Augmented Generation (RAG) to provide intelligent, relevant, and context-aware responses using enterprise knowledge.
-📌 About Project
+-📌 About Project
 RAG-AI Conversational Agent for Enterprise Customer Engagement
 developed a RAG-based AI Conversational Agent that answers customer queries using restaurant review data. The system retrieves relevant information through vector embeddings and similarity search, while LLaMA generates accurate, context-aware responses. The project improves customer engagement, response accuracy, and business insights by reducing incorrect or hallucinated answers.
-🛠️ Technologies Used
-Python
-Flask
-Streamlit
-Vector Database
-AI/ML
-🎯 Objectives
-Context-aware question answering
-Document-based information retrieval
-Reduces inaccurate responses using RAG approach
-✨ Key Features
-🤖 AI-powered conversational interaction
-🔍 Semantic search and information retrieval
-📚 Retrieval-Augmented Generation (RAG)
-🍽️ Restaurant information retrieval
-🚀 Future Enhancements
-🤖 Advanced AI Model Integration – Improve response accuracy by integrating more powerful Large Language Models (LLMs).
-🌐 Multi-Language Support – Enable conversations in multiple languages for better user accessibility.
+-🛠️ Technologies Used
+-Python
+-Flask
+-Streamlit
+-Vector Database
+-AI/ML
+-🎯 Objectives
+-Context-aware question answering
+-Document-based information retrieval
+-Reduces inaccurate responses using RAG approach
+-✨ Key Features
+-🤖 AI-powered conversational interaction
+-🔍 Semantic search and information retrieval
+-📚 Retrieval-Augmented Generation (RAG)
+-🍽️ Restaurant information retrieval
+-🚀 Future Enhancements
+-🤖 Advanced AI Model Integration – Improve response accuracy by integrating more powerful Large Language Models (LLMs).
+-🌐 Multi-Language Support – Enable conversations in multiple languages for better user accessibility.
