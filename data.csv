@@ -1,0 +1,1001 @@
+review_id,restaurant_name,state_level_restaurant,district,state,country,rating,review_text,popular_dish,expensive_dish,cheap_dish,most_ordered_dish
+1,Rajdhani,Telangana Grand Kitchen,Hyderabad,Telangana,India,2,Below expectations.,Paneer Butter Masala,Royal Biryani,Plain Noodles,Chicken Biryani
+2,Pind Balluchi,Telangana Grand Kitchen,Hyderabad,Telangana,India,5,Amazing taste and premium quality.,Butter Chicken,Premium Sushi,Plain Noodles,Chicken Biryani
+3,Cavatina by Avinash Martins,Telangana Grand Kitchen,Hyderabad,Telangana,India,4,Worth the price.,Paneer Butter Masala,Lobster Thermidor,Idli Sambar,Chicken Biryani
+4,Behrouz Biryani,Telangana Grand Kitchen,Hyderabad,Telangana,India,3,Average food.,Paneer Butter Masala,Premium Sushi,Veg Fried Rice,Butter Chicken
+5,Villa Maya,Telangana Grand Kitchen,Hyderabad,Telangana,India,4,Very good food.,Paneer Butter Masala,Lobster Thermidor,Veg Fried Rice,Paneer Curry
+6,The Bombay Canteen,Telangana Grand Kitchen,Hyderabad,Telangana,India,4,Very good food.,Chicken Biryani,Wagyu Steak,Dal Rice,Veg Fried Rice
+7,Tunday Kababi,Telangana Grand Kitchen,Warangal,Telangana,India,1,Would not recommend.,Margherita Pizza,Lobster Thermidor,Dal Rice,Veg Fried Rice
+8,Prost,Telangana Grand Kitchen,Warangal,Telangana,India,5,Highly recommended place.,Margherita Pizza,Premium Sushi,Veg Fried Rice,Veg Fried Rice
+9,O Pedro,Telangana Grand Kitchen,Warangal,Telangana,India,3,Decent experience.,Sushi Platter,Royal Biryani,Plain Noodles,Veg Fried Rice
+10,Havmor,Telangana Grand Kitchen,Warangal,Telangana,India,5,Amazing taste and premium quality.,Sushi Platter,Truffle Pasta,Plain Noodles,Veg Fried Rice
+11,United Coffee House,Telangana Grand Kitchen,Warangal,Telangana,India,1,Would not recommend.,Margherita Pizza,Premium Sushi,Masala Dosa,Butter Chicken
+12,LUPA,Telangana Grand Kitchen,Warangal,Telangana,India,1,Would not recommend.,Veg Thali,Premium Sushi,Masala Dosa,Masala Dosa
+13,Masque,Telangana Grand Kitchen,Nizamabad,Telangana,India,1,Would not recommend.,Veg Thali,Royal Biryani,Dal Rice,Butter Chicken
+14,Shah Ghouse Café,Telangana Grand Kitchen,Nizamabad,Telangana,India,3,Decent experience.,Chicken Biryani,Truffle Pasta,Masala Dosa,Veg Fried Rice
+15,Sienna Store & Cafe,Telangana Grand Kitchen,Nizamabad,Telangana,India,5,Amazing taste and premium quality.,Margherita Pizza,Wagyu Steak,Dal Rice,Masala Dosa
+16,Burma Burma,Telangana Grand Kitchen,Nizamabad,Telangana,India,2,Food was disappointing.,Chicken Biryani,Royal Biryani,Veg Fried Rice,Chicken Biryani
+17,Americano,Telangana Grand Kitchen,Nizamabad,Telangana,India,1,Very poor quality.,Margherita Pizza,Lobster Thermidor,Veg Fried Rice,Masala Dosa
+18,Toit,Telangana Grand Kitchen,Nizamabad,Telangana,India,4,Very good food.,Butter Chicken,Premium Sushi,Masala Dosa,Veg Fried Rice
+19,QTQ Restaurant,Telangana Grand Kitchen,Jangaon,Telangana,India,2,Food was disappointing.,Butter Chicken,Premium Sushi,Masala Dosa,Veg Fried Rice
+20,Aroma Flavours,Telangana Grand Kitchen,Jangaon,Telangana,India,5,Excellent food and service.,Paneer Butter Masala,Lobster Thermidor,Plain Noodles,Veg Fried Rice
+21,Nine Dine,Telangana Grand Kitchen,Jangaon,Telangana,India,1,Very poor quality.,Sushi Platter,Premium Sushi,Masala Dosa,Chicken Biryani
+22,Aroma Flavours,Telangana Grand Kitchen,Jangaon,Telangana,India,5,Amazing taste and premium quality.,Sushi Platter,Lobster Thermidor,Dal Rice,Chicken Biryani
+23,Royal Family Restaurant,Telangana Grand Kitchen,Jangaon,Telangana,India,1,Terrible experience.,Chicken Biryani,Lobster Thermidor,Dal Rice,Chicken Biryani
+24,Nine Dine,Telangana Grand Kitchen,Jangaon,Telangana,India,2,Not worth the price.,Sushi Platter,Royal Biryani,Dal Rice,Masala Dosa
+25,Ziya,Andhra Pradesh Grand Kitchen,Visakhapatnam,Andhra Pradesh,India,4,Very good food.,Paneer Butter Masala,Premium Sushi,Veg Fried Rice,Chicken Biryani
+26,Bengaluru Oota Company,Andhra Pradesh Grand Kitchen,Visakhapatnam,Andhra Pradesh,India,2,Food was disappointing.,Veg Thali,Royal Biryani,Masala Dosa,Chicken Biryani
+27,Falak,Andhra Pradesh Grand Kitchen,Visakhapatnam,Andhra Pradesh,India,1,Terrible experience.,Chicken Biryani,Wagyu Steak,Masala Dosa,Masala Dosa
+28,Karavalli,Andhra Pradesh Grand Kitchen,Visakhapatnam,Andhra Pradesh,India,3,Service could be improved.,Veg Thali,Wagyu Steak,Masala Dosa,Butter Chicken
+29,Ram Ashraya,Andhra Pradesh Grand Kitchen,Visakhapatnam,Andhra Pradesh,India,4,Nice ambience and tasty dishes.,Sushi Platter,Premium Sushi,Veg Fried Rice,Veg Fried Rice
+30,Cavatina by Avinash Martins,Andhra Pradesh Grand Kitchen,Visakhapatnam,Andhra Pradesh,India,4,Very good food.,Chicken Biryani,Royal Biryani,Masala Dosa,Veg Fried Rice
+31,Zaffran,Andhra Pradesh Grand Kitchen,Vijayawada,Andhra Pradesh,India,2,Food was disappointing.,Veg Thali,Lobster Thermidor,Masala Dosa,Paneer Curry
+32,Shree Mithai,Andhra Pradesh Grand Kitchen,Vijayawada,Andhra Pradesh,India,3,Average food.,Veg Thali,Lobster Thermidor,Plain Noodles,Chicken Biryani
+33,Prost,Andhra Pradesh Grand Kitchen,Vijayawada,Andhra Pradesh,India,3,Average food.,Margherita Pizza,Lobster Thermidor,Masala Dosa,Veg Fried Rice
+34,Cavatina by Avinash Martins,Andhra Pradesh Grand Kitchen,Vijayawada,Andhra Pradesh,India,1,Terrible experience.,Chicken Biryani,Lobster Thermidor,Dal Rice,Butter Chicken
+35,Burger Singh,Andhra Pradesh Grand Kitchen,Vijayawada,Andhra Pradesh,India,2,Food was disappointing.,Paneer Butter Masala,Royal Biryani,Dal Rice,Butter Chicken
+36,Verandah,Andhra Pradesh Grand Kitchen,Vijayawada,Andhra Pradesh,India,3,Service could be improved.,Chicken Biryani,Premium Sushi,Plain Noodles,Masala Dosa
+37,Wasabi By Morimoto,Andhra Pradesh Grand Kitchen,Guntur,Andhra Pradesh,India,3,Decent experience.,Margherita Pizza,Wagyu Steak,Dal Rice,Chicken Biryani
+38,Shah Ghouse Café,Andhra Pradesh Grand Kitchen,Guntur,Andhra Pradesh,India,3,Decent experience.,Margherita Pizza,Wagyu Steak,Veg Fried Rice,Veg Fried Rice
+39,Behrouz Biryani,Andhra Pradesh Grand Kitchen,Guntur,Andhra Pradesh,India,2,Food was disappointing.,Veg Thali,Wagyu Steak,Dal Rice,Veg Fried Rice
+40,Biryani By Kilo,Andhra Pradesh Grand Kitchen,Guntur,Andhra Pradesh,India,2,Not worth the price.,Butter Chicken,Lobster Thermidor,Idli Sambar,Masala Dosa
+41,Bomras,Andhra Pradesh Grand Kitchen,Guntur,Andhra Pradesh,India,4,Worth the price.,Margherita Pizza,Lobster Thermidor,Dal Rice,Chicken Biryani
+42,United Coffee House,Andhra Pradesh Grand Kitchen,Guntur,Andhra Pradesh,India,5,Excellent food and service.,Margherita Pizza,Royal Biryani,Masala Dosa,Veg Fried Rice
+43,Farmlore,Tamil Nadu Grand Kitchen,Chennai,Tamil Nadu,India,2,Below expectations.,Veg Thali,Truffle Pasta,Masala Dosa,Paneer Curry
+44,Social,Tamil Nadu Grand Kitchen,Chennai,Tamil Nadu,India,4,Worth the price.,Paneer Butter Masala,Truffle Pasta,Plain Noodles,Masala Dosa
+45,Dum Pukht,Tamil Nadu Grand Kitchen,Chennai,Tamil Nadu,India,5,Excellent food and service.,Paneer Butter Masala,Wagyu Steak,Dal Rice,Chicken Biryani
+46,Gulati,Tamil Nadu Grand Kitchen,Chennai,Tamil Nadu,India,2,Below expectations.,Margherita Pizza,Truffle Pasta,Plain Noodles,Masala Dosa
+47,Falak,Tamil Nadu Grand Kitchen,Chennai,Tamil Nadu,India,3,Decent experience.,Veg Thali,Royal Biryani,Veg Fried Rice,Masala Dosa
+48,Masala Library,Tamil Nadu Grand Kitchen,Chennai,Tamil Nadu,India,3,Service could be improved.,Butter Chicken,Truffle Pasta,Veg Fried Rice,Butter Chicken
+49,Seefah,Tamil Nadu Grand Kitchen,Coimbatore,Tamil Nadu,India,2,Food was disappointing.,Sushi Platter,Lobster Thermidor,Masala Dosa,Chicken Biryani
+50,Faasos,Tamil Nadu Grand Kitchen,Coimbatore,Tamil Nadu,India,3,Average food.,Veg Thali,Royal Biryani,Veg Fried Rice,Veg Fried Rice
+51,Toit,Tamil Nadu Grand Kitchen,Coimbatore,Tamil Nadu,India,1,Very poor quality.,Veg Thali,Truffle Pasta,Masala Dosa,Butter Chicken
+52,Falak,Tamil Nadu Grand Kitchen,Coimbatore,Tamil Nadu,India,5,Excellent food and service.,Margherita Pizza,Truffle Pasta,Veg Fried Rice,Masala Dosa
+53,Copper Chimney,Tamil Nadu Grand Kitchen,Coimbatore,Tamil Nadu,India,2,Below expectations.,Margherita Pizza,Lobster Thermidor,Idli Sambar,Masala Dosa
+54,Indian Summer Cafe,Tamil Nadu Grand Kitchen,Coimbatore,Tamil Nadu,India,1,Very poor quality.,Chicken Biryani,Truffle Pasta,Idli Sambar,Chicken Biryani
+55,Amrik Sukhdev,Tamil Nadu Grand Kitchen,Madurai,Tamil Nadu,India,1,Terrible experience.,Butter Chicken,Lobster Thermidor,Masala Dosa,Butter Chicken
+56,Paradise,Tamil Nadu Grand Kitchen,Madurai,Tamil Nadu,India,3,Service could be improved.,Veg Thali,Lobster Thermidor,Idli Sambar,Chicken Biryani
+57,Keventers,Tamil Nadu Grand Kitchen,Madurai,Tamil Nadu,India,4,Nice ambience and tasty dishes.,Chicken Biryani,Royal Biryani,Idli Sambar,Butter Chicken
+58,Prost,Tamil Nadu Grand Kitchen,Madurai,Tamil Nadu,India,2,Not worth the price.,Chicken Biryani,Lobster Thermidor,Dal Rice,Masala Dosa
+59,Oh! Calcutta,Tamil Nadu Grand Kitchen,Madurai,Tamil Nadu,India,3,Decent experience.,Veg Thali,Truffle Pasta,Idli Sambar,Chicken Biryani
+60,Wasabi By Morimoto,Tamil Nadu Grand Kitchen,Madurai,Tamil Nadu,India,3,Average food.,Veg Thali,Royal Biryani,Veg Fried Rice,Masala Dosa
+61,Avartana,Karnataka Grand Kitchen,Bengaluru Urban,Karnataka,India,4,Nice ambience and tasty dishes.,Veg Thali,Premium Sushi,Dal Rice,Masala Dosa
+62,Mocambo,Karnataka Grand Kitchen,Bengaluru Urban,Karnataka,India,1,Very poor quality.,Chicken Biryani,Premium Sushi,Idli Sambar,Masala Dosa
+63,Idris Biryani,Karnataka Grand Kitchen,Bengaluru Urban,Karnataka,India,4,Nice ambience and tasty dishes.,Veg Thali,Truffle Pasta,Plain Noodles,Veg Fried Rice
+64,Zaffran,Karnataka Grand Kitchen,Bengaluru Urban,Karnataka,India,1,Very poor quality.,Paneer Butter Masala,Lobster Thermidor,Dal Rice,Veg Fried Rice
+65,Peter Cat,Karnataka Grand Kitchen,Bengaluru Urban,Karnataka,India,3,Service could be improved.,Sushi Platter,Truffle Pasta,Plain Noodles,Butter Chicken
+66,Ziya,Karnataka Grand Kitchen,Bengaluru Urban,Karnataka,India,4,Worth the price.,Margherita Pizza,Lobster Thermidor,Masala Dosa,Butter Chicken
+67,Kailash Parbat,Karnataka Grand Kitchen,Mysuru,Karnataka,India,1,Very poor quality.,Butter Chicken,Royal Biryani,Veg Fried Rice,Butter Chicken
+68,Mainland China,Karnataka Grand Kitchen,Mysuru,Karnataka,India,3,Decent experience.,Margherita Pizza,Royal Biryani,Idli Sambar,Masala Dosa
+69,LUPA,Karnataka Grand Kitchen,Mysuru,Karnataka,India,2,Food was disappointing.,Veg Thali,Wagyu Steak,Dal Rice,Masala Dosa
+70,Amrik Sukhdev,Karnataka Grand Kitchen,Mysuru,Karnataka,India,4,Nice ambience and tasty dishes.,Paneer Butter Masala,Premium Sushi,Masala Dosa,Chicken Biryani
+71,Chung Wah,Karnataka Grand Kitchen,Mysuru,Karnataka,India,5,Amazing taste and premium quality.,Butter Chicken,Premium Sushi,Dal Rice,Butter Chicken
+72,Stir Crazy,Karnataka Grand Kitchen,Mysuru,Karnataka,India,4,Nice ambience and tasty dishes.,Veg Thali,Royal Biryani,Dal Rice,Paneer Curry
+73,Nagarjuna,Karnataka Grand Kitchen,Mangaluru,Karnataka,India,5,Highly recommended place.,Veg Thali,Lobster Thermidor,Idli Sambar,Veg Fried Rice
+74,Biryani By Kilo,Karnataka Grand Kitchen,Mangaluru,Karnataka,India,3,Service could be improved.,Sushi Platter,Truffle Pasta,Masala Dosa,Paneer Curry
+75,Americano,Karnataka Grand Kitchen,Mangaluru,Karnataka,India,4,Worth the price.,Butter Chicken,Wagyu Steak,Masala Dosa,Butter Chicken
+76,Farmlore,Karnataka Grand Kitchen,Mangaluru,Karnataka,India,1,Terrible experience.,Butter Chicken,Premium Sushi,Dal Rice,Paneer Curry
+77,LUPA,Karnataka Grand Kitchen,Mangaluru,Karnataka,India,5,Excellent food and service.,Sushi Platter,Lobster Thermidor,Idli Sambar,Butter Chicken
+78,Faasos,Karnataka Grand Kitchen,Mangaluru,Karnataka,India,2,Not worth the price.,Paneer Butter Masala,Royal Biryani,Masala Dosa,Masala Dosa
+79,Chittaranjan Mistanna Bhandar,Kerala Grand Kitchen,Thiruvananthapuram,Kerala,India,5,Highly recommended place.,Veg Thali,Royal Biryani,Veg Fried Rice,Butter Chicken
+80,Indian Accent,Kerala Grand Kitchen,Thiruvananthapuram,Kerala,India,5,Amazing taste and premium quality.,Sushi Platter,Wagyu Steak,Idli Sambar,Paneer Curry
+81,Wasabi By Morimoto,Kerala Grand Kitchen,Thiruvananthapuram,Kerala,India,1,Terrible experience.,Paneer Butter Masala,Premium Sushi,Dal Rice,Chicken Biryani
+82,Pind Balluchi,Kerala Grand Kitchen,Thiruvananthapuram,Kerala,India,4,Nice ambience and tasty dishes.,Chicken Biryani,Wagyu Steak,Idli Sambar,Chicken Biryani
+83,Paragon Restaurant,Kerala Grand Kitchen,Thiruvananthapuram,Kerala,India,5,Highly recommended place.,Paneer Butter Masala,Lobster Thermidor,Veg Fried Rice,Paneer Curry
+84,Farmlore,Kerala Grand Kitchen,Thiruvananthapuram,Kerala,India,2,Not worth the price.,Butter Chicken,Royal Biryani,Veg Fried Rice,Masala Dosa
+85,Oh! Calcutta,Kerala Grand Kitchen,Kochi,Kerala,India,5,Excellent food and service.,Butter Chicken,Premium Sushi,Masala Dosa,Veg Fried Rice
+86,Bomras,Kerala Grand Kitchen,Kochi,Kerala,India,1,Would not recommend.,Chicken Biryani,Truffle Pasta,Plain Noodles,Butter Chicken
+87,Faasos,Kerala Grand Kitchen,Kochi,Kerala,India,2,Not worth the price.,Margherita Pizza,Wagyu Steak,Veg Fried Rice,Butter Chicken
+88,Toit,Kerala Grand Kitchen,Kochi,Kerala,India,3,Service could be improved.,Paneer Butter Masala,Premium Sushi,Plain Noodles,Veg Fried Rice
+89,LUPA,Kerala Grand Kitchen,Kochi,Kerala,India,2,Not worth the price.,Veg Thali,Premium Sushi,Veg Fried Rice,Masala Dosa
+90,Seefah,Kerala Grand Kitchen,Kochi,Kerala,India,1,Terrible experience.,Margherita Pizza,Truffle Pasta,Idli Sambar,Paneer Curry
+91,Toit,Kerala Grand Kitchen,Kozhikode,Kerala,India,3,Average food.,Margherita Pizza,Wagyu Steak,Veg Fried Rice,Butter Chicken
+92,Sienna Store & Cafe,Kerala Grand Kitchen,Kozhikode,Kerala,India,5,Amazing taste and premium quality.,Margherita Pizza,Royal Biryani,Veg Fried Rice,Veg Fried Rice
+93,The Table,Kerala Grand Kitchen,Kozhikode,Kerala,India,1,Very poor quality.,Margherita Pizza,Truffle Pasta,Masala Dosa,Butter Chicken
+94,Masala Library,Kerala Grand Kitchen,Kozhikode,Kerala,India,5,Amazing taste and premium quality.,Paneer Butter Masala,Lobster Thermidor,Veg Fried Rice,Chicken Biryani
+95,Dum Pukht,Kerala Grand Kitchen,Kozhikode,Kerala,India,5,Excellent food and service.,Chicken Biryani,Wagyu Steak,Veg Fried Rice,Masala Dosa
+96,Kashi Art Cafe,Kerala Grand Kitchen,Kozhikode,Kerala,India,1,Would not recommend.,Butter Chicken,Wagyu Steak,Dal Rice,Veg Fried Rice
+97,Flurys,Maharashtra Grand Kitchen,Mumbai,Maharashtra,India,5,Highly recommended place.,Butter Chicken,Lobster Thermidor,Plain Noodles,Paneer Curry
+98,Indian Accent,Maharashtra Grand Kitchen,Mumbai,Maharashtra,India,1,Would not recommend.,Chicken Biryani,Royal Biryani,Masala Dosa,Butter Chicken
+99,The Bombay Canteen,Maharashtra Grand Kitchen,Mumbai,Maharashtra,India,2,Not worth the price.,Margherita Pizza,Royal Biryani,Plain Noodles,Veg Fried Rice
+100,Ram Ashraya,Maharashtra Grand Kitchen,Mumbai,Maharashtra,India,2,Not worth the price.,Chicken Biryani,Wagyu Steak,Dal Rice,Paneer Curry
+101,Natural Ice Cream,Maharashtra Grand Kitchen,Mumbai,Maharashtra,India,2,Food was disappointing.,Sushi Platter,Royal Biryani,Masala Dosa,Chicken Biryani
+102,Allen’s Kitchen,Maharashtra Grand Kitchen,Mumbai,Maharashtra,India,3,Decent experience.,Butter Chicken,Lobster Thermidor,Idli Sambar,Chicken Biryani
+103,Ram Ashraya,Maharashtra Grand Kitchen,Pune,Maharashtra,India,2,Not worth the price.,Chicken Biryani,Lobster Thermidor,Idli Sambar,Chicken Biryani
+104,Behrouz Biryani,Maharashtra Grand Kitchen,Pune,Maharashtra,India,4,Worth the price.,Veg Thali,Royal Biryani,Dal Rice,Butter Chicken
+105,Chittaranjan Mistanna Bhandar,Maharashtra Grand Kitchen,Pune,Maharashtra,India,2,Food was disappointing.,Paneer Butter Masala,Royal Biryani,Dal Rice,Butter Chicken
+106,Kashi Art Cafe,Maharashtra Grand Kitchen,Pune,Maharashtra,India,4,Worth the price.,Margherita Pizza,Wagyu Steak,Veg Fried Rice,Veg Fried Rice
+107,Natural Ice Cream,Maharashtra Grand Kitchen,Pune,Maharashtra,India,2,Not worth the price.,Paneer Butter Masala,Premium Sushi,Idli Sambar,Masala Dosa
+108,Americano,Maharashtra Grand Kitchen,Pune,Maharashtra,India,4,Worth the price.,Butter Chicken,Truffle Pasta,Veg Fried Rice,Veg Fried Rice
+109,Gunpowder,Maharashtra Grand Kitchen,Nagpur,Maharashtra,India,3,Service could be improved.,Margherita Pizza,Wagyu Steak,Idli Sambar,Paneer Curry
+110,Cavatina by Avinash Martins,Maharashtra Grand Kitchen,Nagpur,Maharashtra,India,3,Average food.,Paneer Butter Masala,Lobster Thermidor,Dal Rice,Veg Fried Rice
+111,6 Ballygunge Place,Maharashtra Grand Kitchen,Nagpur,Maharashtra,India,3,Decent experience.,Veg Thali,Royal Biryani,Idli Sambar,Masala Dosa
+112,Havmor,Maharashtra Grand Kitchen,Nagpur,Maharashtra,India,5,Highly recommended place.,Paneer Butter Masala,Royal Biryani,Veg Fried Rice,Chicken Biryani
+113,Keventers,Maharashtra Grand Kitchen,Nagpur,Maharashtra,India,1,Terrible experience.,Margherita Pizza,Premium Sushi,Dal Rice,Paneer Curry
+114,Havmor,Maharashtra Grand Kitchen,Nagpur,Maharashtra,India,3,Average food.,Chicken Biryani,Truffle Pasta,Veg Fried Rice,Butter Chicken
+115,Shah Ghouse Café,Uttar Pradesh Grand Kitchen,Lucknow,Uttar Pradesh,India,2,Not worth the price.,Margherita Pizza,Truffle Pasta,Idli Sambar,Chicken Biryani
+116,LUPA,Uttar Pradesh Grand Kitchen,Lucknow,Uttar Pradesh,India,3,Average food.,Veg Thali,Royal Biryani,Dal Rice,Veg Fried Rice
+117,Punjab Grill,Uttar Pradesh Grand Kitchen,Lucknow,Uttar Pradesh,India,1,Terrible experience.,Margherita Pizza,Wagyu Steak,Plain Noodles,Chicken Biryani
+118,Seefah,Uttar Pradesh Grand Kitchen,Lucknow,Uttar Pradesh,India,5,Highly recommended place.,Veg Thali,Royal Biryani,Dal Rice,Paneer Curry
+119,Farmlore,Uttar Pradesh Grand Kitchen,Lucknow,Uttar Pradesh,India,2,Food was disappointing.,Paneer Butter Masala,Lobster Thermidor,Veg Fried Rice,Chicken Biryani
+120,Toit,Uttar Pradesh Grand Kitchen,Lucknow,Uttar Pradesh,India,2,Below expectations.,Sushi Platter,Lobster Thermidor,Masala Dosa,Paneer Curry
+121,MTR,Uttar Pradesh Grand Kitchen,Kanpur,Uttar Pradesh,India,4,Very good food.,Chicken Biryani,Lobster Thermidor,Veg Fried Rice,Veg Fried Rice
+122,LUPA,Uttar Pradesh Grand Kitchen,Kanpur,Uttar Pradesh,India,2,Food was disappointing.,Margherita Pizza,Royal Biryani,Veg Fried Rice,Butter Chicken
+123,Stir Crazy,Uttar Pradesh Grand Kitchen,Kanpur,Uttar Pradesh,India,2,Food was disappointing.,Margherita Pizza,Wagyu Steak,Veg Fried Rice,Paneer Curry
+124,Avartana,Uttar Pradesh Grand Kitchen,Kanpur,Uttar Pradesh,India,5,Excellent food and service.,Butter Chicken,Royal Biryani,Masala Dosa,Chicken Biryani
+125,Karim’s,Uttar Pradesh Grand Kitchen,Kanpur,Uttar Pradesh,India,1,Would not recommend.,Butter Chicken,Wagyu Steak,Plain Noodles,Butter Chicken
+126,Smoke House Deli,Uttar Pradesh Grand Kitchen,Kanpur,Uttar Pradesh,India,3,Decent experience.,Paneer Butter Masala,Premium Sushi,Idli Sambar,Butter Chicken
+127,Masala Library,Uttar Pradesh Grand Kitchen,Varanasi,Uttar Pradesh,India,2,Food was disappointing.,Chicken Biryani,Truffle Pasta,Veg Fried Rice,Paneer Curry
+128,Keventers,Uttar Pradesh Grand Kitchen,Varanasi,Uttar Pradesh,India,4,Worth the price.,Butter Chicken,Wagyu Steak,Dal Rice,Masala Dosa
+129,Ram Ashraya,Uttar Pradesh Grand Kitchen,Varanasi,Uttar Pradesh,India,1,Would not recommend.,Margherita Pizza,Lobster Thermidor,Idli Sambar,Masala Dosa
+130,Zaffran,Uttar Pradesh Grand Kitchen,Varanasi,Uttar Pradesh,India,5,Excellent food and service.,Chicken Biryani,Lobster Thermidor,Plain Noodles,Masala Dosa
+131,6 Ballygunge Place,Uttar Pradesh Grand Kitchen,Varanasi,Uttar Pradesh,India,2,Not worth the price.,Sushi Platter,Premium Sushi,Veg Fried Rice,Veg Fried Rice
+132,Baan Thai,Uttar Pradesh Grand Kitchen,Varanasi,Uttar Pradesh,India,1,Would not recommend.,Sushi Platter,Truffle Pasta,Masala Dosa,Masala Dosa
+133,Indian Summer Cafe,West Bengal Grand Kitchen,Kolkata,West Bengal,India,3,Average food.,Paneer Butter Masala,Truffle Pasta,Veg Fried Rice,Veg Fried Rice
+134,Mocambo,West Bengal Grand Kitchen,Kolkata,West Bengal,India,2,Food was disappointing.,Veg Thali,Premium Sushi,Idli Sambar,Masala Dosa
+135,SodaBottleOpenerWala,West Bengal Grand Kitchen,Kolkata,West Bengal,India,2,Food was disappointing.,Sushi Platter,Lobster Thermidor,Masala Dosa,Masala Dosa
+136,Shree Thaker Bhojanalay,West Bengal Grand Kitchen,Kolkata,West Bengal,India,1,Very poor quality.,Margherita Pizza,Truffle Pasta,Plain Noodles,Masala Dosa
+137,Mocambo,West Bengal Grand Kitchen,Kolkata,West Bengal,India,1,Very poor quality.,Chicken Biryani,Premium Sushi,Dal Rice,Masala Dosa
+138,Shree Mithai,West Bengal Grand Kitchen,Kolkata,West Bengal,India,3,Average food.,Veg Thali,Wagyu Steak,Idli Sambar,Masala Dosa
+139,Peter Cat,West Bengal Grand Kitchen,Howrah,West Bengal,India,2,Food was disappointing.,Paneer Butter Masala,Lobster Thermidor,Idli Sambar,Paneer Curry
+140,Villa Maya,West Bengal Grand Kitchen,Howrah,West Bengal,India,3,Decent experience.,Margherita Pizza,Lobster Thermidor,Idli Sambar,Chicken Biryani
+141,Paradise,West Bengal Grand Kitchen,Howrah,West Bengal,India,2,Below expectations.,Chicken Biryani,Truffle Pasta,Dal Rice,Masala Dosa
+142,Pind Balluchi,West Bengal Grand Kitchen,Howrah,West Bengal,India,3,Decent experience.,Veg Thali,Wagyu Steak,Idli Sambar,Masala Dosa
+143,Burma Burma,West Bengal Grand Kitchen,Howrah,West Bengal,India,2,Food was disappointing.,Veg Thali,Lobster Thermidor,Masala Dosa,Paneer Curry
+144,Mocambo,West Bengal Grand Kitchen,Howrah,West Bengal,India,4,Worth the price.,Chicken Biryani,Wagyu Steak,Dal Rice,Butter Chicken
+145,Keventers,West Bengal Grand Kitchen,Darjeeling,West Bengal,India,3,Average food.,Sushi Platter,Truffle Pasta,Veg Fried Rice,Paneer Curry
+146,Moti Mahal,West Bengal Grand Kitchen,Darjeeling,West Bengal,India,5,Excellent food and service.,Sushi Platter,Royal Biryani,Masala Dosa,Butter Chicken
+147,Behrouz Biryani,West Bengal Grand Kitchen,Darjeeling,West Bengal,India,5,Amazing taste and premium quality.,Sushi Platter,Truffle Pasta,Masala Dosa,Paneer Curry
+148,Gunpowder,West Bengal Grand Kitchen,Darjeeling,West Bengal,India,2,Below expectations.,Sushi Platter,Wagyu Steak,Veg Fried Rice,Butter Chicken
+149,Idris Biryani,West Bengal Grand Kitchen,Darjeeling,West Bengal,India,3,Average food.,Paneer Butter Masala,Royal Biryani,Idli Sambar,Masala Dosa
+150,Palmshore,West Bengal Grand Kitchen,Darjeeling,West Bengal,India,2,Below expectations.,Sushi Platter,Royal Biryani,Masala Dosa,Paneer Curry
+151,Anjappar,Rajasthan Grand Kitchen,Jaipur,Rajasthan,India,5,Excellent food and service.,Chicken Biryani,Wagyu Steak,Masala Dosa,Chicken Biryani
+152,Izumi,Rajasthan Grand Kitchen,Jaipur,Rajasthan,India,4,Nice ambience and tasty dishes.,Chicken Biryani,Truffle Pasta,Masala Dosa,Butter Chicken
+153,Izumi,Rajasthan Grand Kitchen,Jaipur,Rajasthan,India,3,Average food.,Butter Chicken,Lobster Thermidor,Dal Rice,Paneer Curry
+154,Chittaranjan Mistanna Bhandar,Rajasthan Grand Kitchen,Jaipur,Rajasthan,India,1,Very poor quality.,Margherita Pizza,Royal Biryani,Plain Noodles,Veg Fried Rice
+155,Nagarjuna,Rajasthan Grand Kitchen,Jaipur,Rajasthan,India,4,Nice ambience and tasty dishes.,Margherita Pizza,Truffle Pasta,Idli Sambar,Masala Dosa
+156,SodaBottleOpenerWala,Rajasthan Grand Kitchen,Jaipur,Rajasthan,India,4,Very good food.,Margherita Pizza,Premium Sushi,Veg Fried Rice,Butter Chicken
+157,Farmlore,Rajasthan Grand Kitchen,Udaipur,Rajasthan,India,2,Food was disappointing.,Sushi Platter,Wagyu Steak,Veg Fried Rice,Veg Fried Rice
+158,Rajdhani,Rajasthan Grand Kitchen,Udaipur,Rajasthan,India,3,Average food.,Veg Thali,Truffle Pasta,Dal Rice,Chicken Biryani
+159,Palmshore,Rajasthan Grand Kitchen,Udaipur,Rajasthan,India,1,Would not recommend.,Veg Thali,Lobster Thermidor,Idli Sambar,Veg Fried Rice
+160,Falak,Rajasthan Grand Kitchen,Udaipur,Rajasthan,India,5,Highly recommended place.,Paneer Butter Masala,Royal Biryani,Dal Rice,Masala Dosa
+161,The Bombay Canteen,Rajasthan Grand Kitchen,Udaipur,Rajasthan,India,4,Worth the price.,Butter Chicken,Lobster Thermidor,Dal Rice,Paneer Curry
+162,Ram Ashraya,Rajasthan Grand Kitchen,Udaipur,Rajasthan,India,1,Very poor quality.,Margherita Pizza,Truffle Pasta,Idli Sambar,Veg Fried Rice
+163,Prost,Rajasthan Grand Kitchen,Jodhpur,Rajasthan,India,5,Amazing taste and premium quality.,Butter Chicken,Wagyu Steak,Masala Dosa,Chicken Biryani
+164,The Bombay Canteen,Rajasthan Grand Kitchen,Jodhpur,Rajasthan,India,5,Highly recommended place.,Veg Thali,Wagyu Steak,Plain Noodles,Butter Chicken
+165,Toit,Rajasthan Grand Kitchen,Jodhpur,Rajasthan,India,1,Very poor quality.,Butter Chicken,Lobster Thermidor,Plain Noodles,Paneer Curry
+166,Namma Veedu Vasanta Bhavan,Rajasthan Grand Kitchen,Jodhpur,Rajasthan,India,3,Service could be improved.,Sushi Platter,Truffle Pasta,Plain Noodles,Butter Chicken
+167,Izumi,Rajasthan Grand Kitchen,Jodhpur,Rajasthan,India,5,Highly recommended place.,Butter Chicken,Royal Biryani,Masala Dosa,Paneer Curry
+168,Paragon Restaurant,Rajasthan Grand Kitchen,Jodhpur,Rajasthan,India,2,Not worth the price.,Sushi Platter,Wagyu Steak,Plain Noodles,Butter Chicken
+169,Burma Burma,Gujarat Grand Kitchen,Ahmedabad,Gujarat,India,4,Nice ambience and tasty dishes.,Margherita Pizza,Premium Sushi,Masala Dosa,Paneer Curry
+170,Baan Thai,Gujarat Grand Kitchen,Ahmedabad,Gujarat,India,3,Average food.,Margherita Pizza,Royal Biryani,Masala Dosa,Masala Dosa
+171,Verandah,Gujarat Grand Kitchen,Ahmedabad,Gujarat,India,5,Excellent food and service.,Margherita Pizza,Premium Sushi,Veg Fried Rice,Veg Fried Rice
+172,Farmlore,Gujarat Grand Kitchen,Ahmedabad,Gujarat,India,3,Decent experience.,Margherita Pizza,Wagyu Steak,Plain Noodles,Veg Fried Rice
+173,Namma Veedu Vasanta Bhavan,Gujarat Grand Kitchen,Ahmedabad,Gujarat,India,2,Not worth the price.,Veg Thali,Wagyu Steak,Plain Noodles,Paneer Curry
+174,Kailash Parbat,Gujarat Grand Kitchen,Ahmedabad,Gujarat,India,3,Service could be improved.,Chicken Biryani,Lobster Thermidor,Plain Noodles,Butter Chicken
+175,O Pedro,Gujarat Grand Kitchen,Surat,Gujarat,India,1,Would not recommend.,Sushi Platter,Wagyu Steak,Dal Rice,Paneer Curry
+176,Social,Gujarat Grand Kitchen,Surat,Gujarat,India,4,Worth the price.,Butter Chicken,Wagyu Steak,Plain Noodles,Masala Dosa
+177,Stir Crazy,Gujarat Grand Kitchen,Surat,Gujarat,India,4,Worth the price.,Paneer Butter Masala,Truffle Pasta,Dal Rice,Veg Fried Rice
+178,Rajdhani,Gujarat Grand Kitchen,Surat,Gujarat,India,5,Highly recommended place.,Veg Thali,Premium Sushi,Dal Rice,Chicken Biryani
+179,Punjab Grill,Gujarat Grand Kitchen,Surat,Gujarat,India,2,Not worth the price.,Paneer Butter Masala,Royal Biryani,Dal Rice,Paneer Curry
+180,Arsalan,Gujarat Grand Kitchen,Surat,Gujarat,India,1,Would not recommend.,Paneer Butter Masala,Premium Sushi,Veg Fried Rice,Veg Fried Rice
+181,Dum Pukht,Gujarat Grand Kitchen,Vadodara,Gujarat,India,3,Service could be improved.,Butter Chicken,Wagyu Steak,Plain Noodles,Masala Dosa
+182,United Coffee House,Gujarat Grand Kitchen,Vadodara,Gujarat,India,5,Highly recommended place.,Butter Chicken,Wagyu Steak,Veg Fried Rice,Veg Fried Rice
+183,Mainland China,Gujarat Grand Kitchen,Vadodara,Gujarat,India,2,Below expectations.,Butter Chicken,Royal Biryani,Dal Rice,Paneer Curry
+184,Gulati,Gujarat Grand Kitchen,Vadodara,Gujarat,India,3,Decent experience.,Butter Chicken,Royal Biryani,Dal Rice,Chicken Biryani
+185,Namma Veedu Vasanta Bhavan,Gujarat Grand Kitchen,Vadodara,Gujarat,India,2,Below expectations.,Chicken Biryani,Royal Biryani,Masala Dosa,Chicken Biryani
+186,Haldiram’s,Gujarat Grand Kitchen,Vadodara,Gujarat,India,4,Nice ambience and tasty dishes.,Sushi Platter,Royal Biryani,Idli Sambar,Chicken Biryani
+187,Bomras,Punjab Grand Kitchen,Amritsar,Punjab,India,5,Amazing taste and premium quality.,Sushi Platter,Wagyu Steak,Dal Rice,Masala Dosa
+188,Farmlore,Punjab Grand Kitchen,Amritsar,Punjab,India,5,Amazing taste and premium quality.,Sushi Platter,Lobster Thermidor,Dal Rice,Veg Fried Rice
+189,Seefah,Punjab Grand Kitchen,Amritsar,Punjab,India,5,Highly recommended place.,Margherita Pizza,Lobster Thermidor,Dal Rice,Paneer Curry
+190,Paragon Restaurant,Punjab Grand Kitchen,Amritsar,Punjab,India,5,Amazing taste and premium quality.,Margherita Pizza,Royal Biryani,Veg Fried Rice,Veg Fried Rice
+191,Masala Library,Punjab Grand Kitchen,Amritsar,Punjab,India,3,Service could be improved.,Chicken Biryani,Royal Biryani,Plain Noodles,Butter Chicken
+192,Flurys,Punjab Grand Kitchen,Amritsar,Punjab,India,2,Below expectations.,Veg Thali,Premium Sushi,Dal Rice,Masala Dosa
+193,Burger Singh,Punjab Grand Kitchen,Ludhiana,Punjab,India,1,Very poor quality.,Margherita Pizza,Premium Sushi,Plain Noodles,Butter Chicken
+194,Mainland China,Punjab Grand Kitchen,Ludhiana,Punjab,India,2,Not worth the price.,Butter Chicken,Truffle Pasta,Idli Sambar,Paneer Curry
+195,Shree Mithai,Punjab Grand Kitchen,Ludhiana,Punjab,India,1,Would not recommend.,Butter Chicken,Wagyu Steak,Masala Dosa,Butter Chicken
+196,The Fisherman’s Wharf,Punjab Grand Kitchen,Ludhiana,Punjab,India,3,Average food.,Chicken Biryani,Wagyu Steak,Idli Sambar,Butter Chicken
+197,Haldiram’s,Punjab Grand Kitchen,Ludhiana,Punjab,India,1,Would not recommend.,Veg Thali,Wagyu Steak,Masala Dosa,Chicken Biryani
+198,Mocambo,Punjab Grand Kitchen,Ludhiana,Punjab,India,2,Not worth the price.,Veg Thali,Wagyu Steak,Plain Noodles,Butter Chicken
+199,Bukhara,Punjab Grand Kitchen,Jalandhar,Punjab,India,5,Excellent food and service.,Sushi Platter,Wagyu Steak,Idli Sambar,Veg Fried Rice
+200,Haldiram’s,Punjab Grand Kitchen,Jalandhar,Punjab,India,5,Amazing taste and premium quality.,Chicken Biryani,Royal Biryani,Veg Fried Rice,Chicken Biryani
+201,United Coffee House,Punjab Grand Kitchen,Jalandhar,Punjab,India,2,Below expectations.,Paneer Butter Masala,Wagyu Steak,Plain Noodles,Masala Dosa
+202,Idris Biryani,Punjab Grand Kitchen,Jalandhar,Punjab,India,3,Decent experience.,Chicken Biryani,Royal Biryani,Masala Dosa,Veg Fried Rice
+203,Arsalan,Punjab Grand Kitchen,Jalandhar,Punjab,India,1,Terrible experience.,Butter Chicken,Royal Biryani,Masala Dosa,Paneer Curry
+204,Sigree,Punjab Grand Kitchen,Jalandhar,Punjab,India,4,Nice ambience and tasty dishes.,Paneer Butter Masala,Premium Sushi,Idli Sambar,Paneer Curry
+205,Tunday Kababi,Bihar Grand Kitchen,Patna,Bihar,India,4,Worth the price.,Sushi Platter,Wagyu Steak,Plain Noodles,Butter Chicken
+206,Moti Mahal,Bihar Grand Kitchen,Patna,Bihar,India,3,Average food.,Veg Thali,Lobster Thermidor,Idli Sambar,Butter Chicken
+207,Ziya,Bihar Grand Kitchen,Patna,Bihar,India,4,Nice ambience and tasty dishes.,Butter Chicken,Royal Biryani,Idli Sambar,Paneer Curry
+208,Tunday Kababi,Bihar Grand Kitchen,Patna,Bihar,India,2,Below expectations.,Butter Chicken,Premium Sushi,Idli Sambar,Butter Chicken
+209,Indian Accent,Bihar Grand Kitchen,Patna,Bihar,India,4,Worth the price.,Paneer Butter Masala,Royal Biryani,Masala Dosa,Paneer Curry
+210,Havmor,Bihar Grand Kitchen,Patna,Bihar,India,5,Excellent food and service.,Sushi Platter,Wagyu Steak,Idli Sambar,Veg Fried Rice
+211,Sigree,Bihar Grand Kitchen,Gaya,Bihar,India,1,Terrible experience.,Butter Chicken,Lobster Thermidor,Dal Rice,Butter Chicken
+212,Haldiram’s,Bihar Grand Kitchen,Gaya,Bihar,India,1,Would not recommend.,Veg Thali,Lobster Thermidor,Plain Noodles,Masala Dosa
+213,The Fisherman’s Wharf,Bihar Grand Kitchen,Gaya,Bihar,India,2,Food was disappointing.,Veg Thali,Wagyu Steak,Idli Sambar,Paneer Curry
+214,Havmor,Bihar Grand Kitchen,Gaya,Bihar,India,5,Amazing taste and premium quality.,Paneer Butter Masala,Wagyu Steak,Dal Rice,Butter Chicken
+215,Kashi Art Cafe,Bihar Grand Kitchen,Gaya,Bihar,India,2,Below expectations.,Chicken Biryani,Truffle Pasta,Masala Dosa,Paneer Curry
+216,Falak,Bihar Grand Kitchen,Gaya,Bihar,India,1,Would not recommend.,Paneer Butter Masala,Premium Sushi,Dal Rice,Veg Fried Rice
+217,Bomras,Bihar Grand Kitchen,Bhagalpur,Bihar,India,5,Excellent food and service.,Veg Thali,Lobster Thermidor,Dal Rice,Paneer Curry
+218,Gunpowder,Bihar Grand Kitchen,Bhagalpur,Bihar,India,3,Service could be improved.,Chicken Biryani,Truffle Pasta,Dal Rice,Veg Fried Rice
+219,Shah Ghouse Café,Bihar Grand Kitchen,Bhagalpur,Bihar,India,2,Food was disappointing.,Butter Chicken,Lobster Thermidor,Veg Fried Rice,Paneer Curry
+220,Villa Maya,Bihar Grand Kitchen,Bhagalpur,Bihar,India,2,Below expectations.,Chicken Biryani,Premium Sushi,Masala Dosa,Chicken Biryani
+221,Rajdhani,Bihar Grand Kitchen,Bhagalpur,Bihar,India,4,Very good food.,Margherita Pizza,Truffle Pasta,Plain Noodles,Butter Chicken
+222,6 Ballygunge Place,Bihar Grand Kitchen,Bhagalpur,Bihar,India,2,Below expectations.,Sushi Platter,Truffle Pasta,Masala Dosa,Chicken Biryani
+223,Sigree,Odisha Grand Kitchen,Bhubaneswar,Odisha,India,2,Below expectations.,Paneer Butter Masala,Royal Biryani,Veg Fried Rice,Butter Chicken
+224,The Table,Odisha Grand Kitchen,Bhubaneswar,Odisha,India,1,Terrible experience.,Margherita Pizza,Wagyu Steak,Masala Dosa,Butter Chicken
+225,Sigree,Odisha Grand Kitchen,Bhubaneswar,Odisha,India,4,Nice ambience and tasty dishes.,Margherita Pizza,Truffle Pasta,Plain Noodles,Chicken Biryani
+226,Peter Cat,Odisha Grand Kitchen,Bhubaneswar,Odisha,India,1,Terrible experience.,Sushi Platter,Lobster Thermidor,Masala Dosa,Paneer Curry
+227,Namma Veedu Vasanta Bhavan,Odisha Grand Kitchen,Bhubaneswar,Odisha,India,2,Not worth the price.,Paneer Butter Masala,Wagyu Steak,Veg Fried Rice,Chicken Biryani
+228,Bukhara,Odisha Grand Kitchen,Bhubaneswar,Odisha,India,3,Decent experience.,Butter Chicken,Premium Sushi,Veg Fried Rice,Masala Dosa
+229,Americano,Odisha Grand Kitchen,Cuttack,Odisha,India,4,Worth the price.,Veg Thali,Truffle Pasta,Masala Dosa,Paneer Curry
+230,Ziya,Odisha Grand Kitchen,Cuttack,Odisha,India,1,Would not recommend.,Chicken Biryani,Wagyu Steak,Idli Sambar,Chicken Biryani
+231,Burger Singh,Odisha Grand Kitchen,Cuttack,Odisha,India,4,Worth the price.,Sushi Platter,Royal Biryani,Masala Dosa,Veg Fried Rice
+232,SodaBottleOpenerWala,Odisha Grand Kitchen,Cuttack,Odisha,India,5,Amazing taste and premium quality.,Sushi Platter,Truffle Pasta,Idli Sambar,Paneer Curry
+233,Avartana,Odisha Grand Kitchen,Cuttack,Odisha,India,4,Very good food.,Paneer Butter Masala,Royal Biryani,Veg Fried Rice,Chicken Biryani
+234,Chittaranjan Mistanna Bhandar,Odisha Grand Kitchen,Cuttack,Odisha,India,4,Worth the price.,Paneer Butter Masala,Lobster Thermidor,Veg Fried Rice,Veg Fried Rice
+235,Punjab Grill,Odisha Grand Kitchen,Puri,Odisha,India,3,Average food.,Butter Chicken,Truffle Pasta,Dal Rice,Paneer Curry
+236,Dum Pukht,Odisha Grand Kitchen,Puri,Odisha,India,3,Decent experience.,Margherita Pizza,Royal Biryani,Idli Sambar,Chicken Biryani
+237,Namma Veedu Vasanta Bhavan,Odisha Grand Kitchen,Puri,Odisha,India,5,Highly recommended place.,Butter Chicken,Wagyu Steak,Masala Dosa,Veg Fried Rice
+238,Idris Biryani,Odisha Grand Kitchen,Puri,Odisha,India,2,Below expectations.,Sushi Platter,Royal Biryani,Masala Dosa,Butter Chicken
+239,Avartana,Odisha Grand Kitchen,Puri,Odisha,India,1,Very poor quality.,Margherita Pizza,Premium Sushi,Plain Noodles,Masala Dosa
+240,Verandah,Odisha Grand Kitchen,Puri,Odisha,India,5,Amazing taste and premium quality.,Veg Thali,Wagyu Steak,Veg Fried Rice,Veg Fried Rice
+241,Sangeetha,Madhya Pradesh Grand Kitchen,Bhopal,Madhya Pradesh,India,4,Worth the price.,Chicken Biryani,Lobster Thermidor,Veg Fried Rice,Chicken Biryani
+242,Chaayos,Madhya Pradesh Grand Kitchen,Bhopal,Madhya Pradesh,India,1,Terrible experience.,Paneer Butter Masala,Premium Sushi,Masala Dosa,Butter Chicken
+243,Masque,Madhya Pradesh Grand Kitchen,Bhopal,Madhya Pradesh,India,5,Amazing taste and premium quality.,Sushi Platter,Wagyu Steak,Dal Rice,Chicken Biryani
+244,Sienna Store & Cafe,Madhya Pradesh Grand Kitchen,Bhopal,Madhya Pradesh,India,2,Not worth the price.,Paneer Butter Masala,Wagyu Steak,Masala Dosa,Veg Fried Rice
+245,Punjab Grill,Madhya Pradesh Grand Kitchen,Bhopal,Madhya Pradesh,India,1,Terrible experience.,Butter Chicken,Wagyu Steak,Plain Noodles,Butter Chicken
+246,Biryani By Kilo,Madhya Pradesh Grand Kitchen,Bhopal,Madhya Pradesh,India,5,Excellent food and service.,Butter Chicken,Lobster Thermidor,Dal Rice,Masala Dosa
+247,Masala Library,Madhya Pradesh Grand Kitchen,Indore,Madhya Pradesh,India,3,Decent experience.,Sushi Platter,Wagyu Steak,Dal Rice,Masala Dosa
+248,Smoke House Deli,Madhya Pradesh Grand Kitchen,Indore,Madhya Pradesh,India,4,Very good food.,Chicken Biryani,Wagyu Steak,Idli Sambar,Veg Fried Rice
+249,Indian Accent,Madhya Pradesh Grand Kitchen,Indore,Madhya Pradesh,India,5,Amazing taste and premium quality.,Sushi Platter,Wagyu Steak,Plain Noodles,Masala Dosa
+250,Prost,Madhya Pradesh Grand Kitchen,Indore,Madhya Pradesh,India,1,Very poor quality.,Butter Chicken,Truffle Pasta,Masala Dosa,Chicken Biryani
+251,Anjappar,Madhya Pradesh Grand Kitchen,Indore,Madhya Pradesh,India,5,Amazing taste and premium quality.,Paneer Butter Masala,Premium Sushi,Veg Fried Rice,Paneer Curry
+252,Sangeetha,Madhya Pradesh Grand Kitchen,Indore,Madhya Pradesh,India,1,Terrible experience.,Veg Thali,Royal Biryani,Idli Sambar,Chicken Biryani
+253,Wow! Momo,Madhya Pradesh Grand Kitchen,Gwalior,Madhya Pradesh,India,1,Terrible experience.,Paneer Butter Masala,Royal Biryani,Veg Fried Rice,Butter Chicken
+254,Meghana Foods,Madhya Pradesh Grand Kitchen,Gwalior,Madhya Pradesh,India,2,Not worth the price.,Sushi Platter,Royal Biryani,Veg Fried Rice,Butter Chicken
+255,The Table,Madhya Pradesh Grand Kitchen,Gwalior,Madhya Pradesh,India,3,Average food.,Paneer Butter Masala,Royal Biryani,Dal Rice,Masala Dosa
+256,Punjab Grill,Madhya Pradesh Grand Kitchen,Gwalior,Madhya Pradesh,India,2,Below expectations.,Sushi Platter,Lobster Thermidor,Dal Rice,Masala Dosa
+257,Indian Accent,Madhya Pradesh Grand Kitchen,Gwalior,Madhya Pradesh,India,2,Below expectations.,Paneer Butter Masala,Lobster Thermidor,Veg Fried Rice,Masala Dosa
+258,Havmor,Madhya Pradesh Grand Kitchen,Gwalior,Madhya Pradesh,India,5,Excellent food and service.,Margherita Pizza,Premium Sushi,Veg Fried Rice,Chicken Biryani
+259,Cavatina by Avinash Martins,Assam Grand Kitchen,Guwahati,Assam,India,3,Service could be improved.,Sushi Platter,Royal Biryani,Plain Noodles,Paneer Curry
+260,Oh! Calcutta,Assam Grand Kitchen,Guwahati,Assam,India,2,Not worth the price.,Butter Chicken,Wagyu Steak,Masala Dosa,Chicken Biryani
+261,Kashi Art Cafe,Assam Grand Kitchen,Guwahati,Assam,India,5,Excellent food and service.,Margherita Pizza,Truffle Pasta,Plain Noodles,Butter Chicken
+262,Indian Summer Cafe,Assam Grand Kitchen,Guwahati,Assam,India,3,Average food.,Chicken Biryani,Royal Biryani,Masala Dosa,Butter Chicken
+263,Havmor,Assam Grand Kitchen,Guwahati,Assam,India,1,Would not recommend.,Veg Thali,Royal Biryani,Plain Noodles,Veg Fried Rice
+264,Barbeque Nation,Assam Grand Kitchen,Guwahati,Assam,India,3,Decent experience.,Veg Thali,Royal Biryani,Masala Dosa,Chicken Biryani
+265,Shree Thaker Bhojanalay,Assam Grand Kitchen,Dibrugarh,Assam,India,5,Highly recommended place.,Paneer Butter Masala,Truffle Pasta,Plain Noodles,Chicken Biryani
+266,Social,Assam Grand Kitchen,Dibrugarh,Assam,India,4,Very good food.,Margherita Pizza,Lobster Thermidor,Masala Dosa,Masala Dosa
+267,Stir Crazy,Assam Grand Kitchen,Dibrugarh,Assam,India,3,Average food.,Margherita Pizza,Wagyu Steak,Idli Sambar,Veg Fried Rice
+268,Paradise,Assam Grand Kitchen,Dibrugarh,Assam,India,1,Would not recommend.,Sushi Platter,Premium Sushi,Veg Fried Rice,Butter Chicken
+269,Chittaranjan Mistanna Bhandar,Assam Grand Kitchen,Dibrugarh,Assam,India,3,Average food.,Sushi Platter,Lobster Thermidor,Idli Sambar,Butter Chicken
+270,Toit,Assam Grand Kitchen,Dibrugarh,Assam,India,2,Food was disappointing.,Sushi Platter,Premium Sushi,Masala Dosa,Butter Chicken
+271,Amrik Sukhdev,Assam Grand Kitchen,Silchar,Assam,India,5,Excellent food and service.,Butter Chicken,Wagyu Steak,Masala Dosa,Veg Fried Rice
+272,Indian Accent,Assam Grand Kitchen,Silchar,Assam,India,4,Nice ambience and tasty dishes.,Veg Thali,Wagyu Steak,Veg Fried Rice,Paneer Curry
+273,Byg Brewski,Assam Grand Kitchen,Silchar,Assam,India,3,Decent experience.,Chicken Biryani,Premium Sushi,Veg Fried Rice,Paneer Curry
+274,Sangeetha,Assam Grand Kitchen,Silchar,Assam,India,5,Highly recommended place.,Butter Chicken,Wagyu Steak,Veg Fried Rice,Masala Dosa
+275,Izumi,Assam Grand Kitchen,Silchar,Assam,India,3,Average food.,Paneer Butter Masala,Royal Biryani,Masala Dosa,Chicken Biryani
+276,Gunpowder,Assam Grand Kitchen,Silchar,Assam,India,2,Food was disappointing.,Chicken Biryani,Royal Biryani,Masala Dosa,Butter Chicken
+277,SodaBottleOpenerWala,Jharkhand Grand Kitchen,Ranchi,Jharkhand,India,4,Nice ambience and tasty dishes.,Sushi Platter,Royal Biryani,Veg Fried Rice,Masala Dosa
+278,O Pedro,Jharkhand Grand Kitchen,Ranchi,Jharkhand,India,3,Average food.,Sushi Platter,Truffle Pasta,Dal Rice,Paneer Curry
+279,Burma Burma,Jharkhand Grand Kitchen,Ranchi,Jharkhand,India,3,Decent experience.,Chicken Biryani,Premium Sushi,Dal Rice,Butter Chicken
+280,Byg Brewski,Jharkhand Grand Kitchen,Ranchi,Jharkhand,India,2,Below expectations.,Margherita Pizza,Premium Sushi,Idli Sambar,Masala Dosa
+281,Behrouz Biryani,Jharkhand Grand Kitchen,Ranchi,Jharkhand,India,4,Worth the price.,Butter Chicken,Premium Sushi,Masala Dosa,Chicken Biryani
+282,Shree Thaker Bhojanalay,Jharkhand Grand Kitchen,Ranchi,Jharkhand,India,5,Highly recommended place.,Paneer Butter Masala,Lobster Thermidor,Dal Rice,Veg Fried Rice
+283,Peter Cat,Jharkhand Grand Kitchen,Jamshedpur,Jharkhand,India,1,Would not recommend.,Sushi Platter,Truffle Pasta,Plain Noodles,Veg Fried Rice
+284,Amrik Sukhdev,Jharkhand Grand Kitchen,Jamshedpur,Jharkhand,India,3,Service could be improved.,Sushi Platter,Royal Biryani,Veg Fried Rice,Chicken Biryani
+285,Toit,Jharkhand Grand Kitchen,Jamshedpur,Jharkhand,India,5,Highly recommended place.,Sushi Platter,Wagyu Steak,Veg Fried Rice,Masala Dosa
+286,Bengaluru Oota Company,Jharkhand Grand Kitchen,Jamshedpur,Jharkhand,India,2,Food was disappointing.,Chicken Biryani,Premium Sushi,Dal Rice,Masala Dosa
+287,Masala Library,Jharkhand Grand Kitchen,Jamshedpur,Jharkhand,India,1,Very poor quality.,Margherita Pizza,Premium Sushi,Masala Dosa,Chicken Biryani
+288,Shree Mithai,Jharkhand Grand Kitchen,Jamshedpur,Jharkhand,India,2,Food was disappointing.,Margherita Pizza,Truffle Pasta,Idli Sambar,Butter Chicken
+289,Shree Mithai,Jharkhand Grand Kitchen,Dhanbad,Jharkhand,India,5,Excellent food and service.,Butter Chicken,Lobster Thermidor,Dal Rice,Chicken Biryani
+290,Smoke House Deli,Jharkhand Grand Kitchen,Dhanbad,Jharkhand,India,4,Nice ambience and tasty dishes.,Butter Chicken,Wagyu Steak,Veg Fried Rice,Veg Fried Rice
+291,Allen’s Kitchen,Jharkhand Grand Kitchen,Dhanbad,Jharkhand,India,2,Food was disappointing.,Sushi Platter,Wagyu Steak,Dal Rice,Paneer Curry
+292,Bukhara,Jharkhand Grand Kitchen,Dhanbad,Jharkhand,India,1,Terrible experience.,Margherita Pizza,Lobster Thermidor,Masala Dosa,Butter Chicken
+293,Natural Ice Cream,Jharkhand Grand Kitchen,Dhanbad,Jharkhand,India,2,Food was disappointing.,Chicken Biryani,Royal Biryani,Masala Dosa,Butter Chicken
+294,Toit,Jharkhand Grand Kitchen,Dhanbad,Jharkhand,India,4,Very good food.,Sushi Platter,Wagyu Steak,Plain Noodles,Veg Fried Rice
+295,Shah Ghouse Café,Chhattisgarh Grand Kitchen,Raipur,Chhattisgarh,India,3,Average food.,Butter Chicken,Lobster Thermidor,Idli Sambar,Masala Dosa
+296,Keventers,Chhattisgarh Grand Kitchen,Raipur,Chhattisgarh,India,3,Service could be improved.,Margherita Pizza,Lobster Thermidor,Idli Sambar,Chicken Biryani
+297,Nagarjuna,Chhattisgarh Grand Kitchen,Raipur,Chhattisgarh,India,2,Below expectations.,Paneer Butter Masala,Truffle Pasta,Masala Dosa,Butter Chicken
+298,Nagarjuna,Chhattisgarh Grand Kitchen,Raipur,Chhattisgarh,India,3,Decent experience.,Veg Thali,Premium Sushi,Plain Noodles,Veg Fried Rice
+299,Masala Library,Chhattisgarh Grand Kitchen,Raipur,Chhattisgarh,India,2,Not worth the price.,Paneer Butter Masala,Royal Biryani,Plain Noodles,Butter Chicken
+300,Oh! Calcutta,Chhattisgarh Grand Kitchen,Raipur,Chhattisgarh,India,3,Service could be improved.,Sushi Platter,Lobster Thermidor,Plain Noodles,Masala Dosa
+301,The Bombay Canteen,Chhattisgarh Grand Kitchen,Bilaspur,Chhattisgarh,India,5,Highly recommended place.,Paneer Butter Masala,Lobster Thermidor,Dal Rice,Paneer Curry
+302,Social,Chhattisgarh Grand Kitchen,Bilaspur,Chhattisgarh,India,4,Very good food.,Margherita Pizza,Royal Biryani,Dal Rice,Butter Chicken
+303,Cavatina by Avinash Martins,Chhattisgarh Grand Kitchen,Bilaspur,Chhattisgarh,India,5,Amazing taste and premium quality.,Paneer Butter Masala,Royal Biryani,Dal Rice,Butter Chicken
+304,Avartana,Chhattisgarh Grand Kitchen,Bilaspur,Chhattisgarh,India,2,Below expectations.,Veg Thali,Wagyu Steak,Masala Dosa,Veg Fried Rice
+305,Karim’s,Chhattisgarh Grand Kitchen,Bilaspur,Chhattisgarh,India,5,Amazing taste and premium quality.,Paneer Butter Masala,Lobster Thermidor,Plain Noodles,Butter Chicken
+306,Zaffran,Chhattisgarh Grand Kitchen,Bilaspur,Chhattisgarh,India,3,Decent experience.,Chicken Biryani,Wagyu Steak,Veg Fried Rice,Chicken Biryani
+307,Arsalan,Chhattisgarh Grand Kitchen,Durg,Chhattisgarh,India,4,Worth the price.,Veg Thali,Wagyu Steak,Plain Noodles,Masala Dosa
+308,Izumi,Chhattisgarh Grand Kitchen,Durg,Chhattisgarh,India,3,Service could be improved.,Chicken Biryani,Royal Biryani,Veg Fried Rice,Veg Fried Rice
+309,Chittaranjan Mistanna Bhandar,Chhattisgarh Grand Kitchen,Durg,Chhattisgarh,India,2,Not worth the price.,Chicken Biryani,Royal Biryani,Masala Dosa,Butter Chicken
+310,Seefah,Chhattisgarh Grand Kitchen,Durg,Chhattisgarh,India,3,Decent experience.,Paneer Butter Masala,Royal Biryani,Dal Rice,Veg Fried Rice
+311,Sangeetha,Chhattisgarh Grand Kitchen,Durg,Chhattisgarh,India,2,Food was disappointing.,Margherita Pizza,Lobster Thermidor,Dal Rice,Paneer Curry
+312,Gulati,Chhattisgarh Grand Kitchen,Durg,Chhattisgarh,India,5,Excellent food and service.,Butter Chicken,Truffle Pasta,Plain Noodles,Masala Dosa
+313,Verandah,Haryana Grand Kitchen,Gurugram,Haryana,India,5,Highly recommended place.,Margherita Pizza,Premium Sushi,Idli Sambar,Butter Chicken
+314,Shree Thaker Bhojanalay,Haryana Grand Kitchen,Gurugram,Haryana,India,5,Amazing taste and premium quality.,Butter Chicken,Wagyu Steak,Masala Dosa,Paneer Curry
+315,Stir Crazy,Haryana Grand Kitchen,Gurugram,Haryana,India,2,Not worth the price.,Chicken Biryani,Royal Biryani,Idli Sambar,Masala Dosa
+316,Paragon Restaurant,Haryana Grand Kitchen,Gurugram,Haryana,India,3,Average food.,Veg Thali,Truffle Pasta,Veg Fried Rice,Masala Dosa
+317,Rajdhani,Haryana Grand Kitchen,Gurugram,Haryana,India,5,Highly recommended place.,Margherita Pizza,Wagyu Steak,Dal Rice,Veg Fried Rice
+318,Idris Biryani,Haryana Grand Kitchen,Gurugram,Haryana,India,5,Amazing taste and premium quality.,Chicken Biryani,Lobster Thermidor,Plain Noodles,Chicken Biryani
+319,Moti Mahal,Haryana Grand Kitchen,Faridabad,Haryana,India,4,Worth the price.,Chicken Biryani,Premium Sushi,Dal Rice,Chicken Biryani
+320,Nagarjuna,Haryana Grand Kitchen,Faridabad,Haryana,India,3,Average food.,Veg Thali,Lobster Thermidor,Plain Noodles,Masala Dosa
+321,Avartana,Haryana Grand Kitchen,Faridabad,Haryana,India,1,Terrible experience.,Sushi Platter,Royal Biryani,Dal Rice,Masala Dosa
+322,Amrik Sukhdev,Haryana Grand Kitchen,Faridabad,Haryana,India,2,Not worth the price.,Veg Thali,Lobster Thermidor,Idli Sambar,Butter Chicken
+323,Izumi,Haryana Grand Kitchen,Faridabad,Haryana,India,4,Very good food.,Sushi Platter,Premium Sushi,Plain Noodles,Masala Dosa
+324,Indian Summer Cafe,Haryana Grand Kitchen,Faridabad,Haryana,India,5,Amazing taste and premium quality.,Paneer Butter Masala,Premium Sushi,Masala Dosa,Veg Fried Rice
+325,Seefah,Haryana Grand Kitchen,Panipat,Haryana,India,2,Not worth the price.,Paneer Butter Masala,Royal Biryani,Masala Dosa,Veg Fried Rice
+326,United Coffee House,Haryana Grand Kitchen,Panipat,Haryana,India,1,Very poor quality.,Butter Chicken,Premium Sushi,Plain Noodles,Chicken Biryani
+327,Farmlore,Haryana Grand Kitchen,Panipat,Haryana,India,4,Nice ambience and tasty dishes.,Veg Thali,Lobster Thermidor,Plain Noodles,Masala Dosa
+328,Chung Wah,Haryana Grand Kitchen,Panipat,Haryana,India,2,Food was disappointing.,Margherita Pizza,Premium Sushi,Idli Sambar,Veg Fried Rice
+329,Shree Mithai,Haryana Grand Kitchen,Panipat,Haryana,India,2,Below expectations.,Butter Chicken,Wagyu Steak,Plain Noodles,Paneer Curry
+330,The Bombay Canteen,Haryana Grand Kitchen,Panipat,Haryana,India,4,Very good food.,Butter Chicken,Truffle Pasta,Plain Noodles,Butter Chicken
+331,Burma Burma,Himachal Pradesh Grand Kitchen,Shimla,Himachal Pradesh,India,3,Decent experience.,Veg Thali,Lobster Thermidor,Masala Dosa,Masala Dosa
+332,Chung Wah,Himachal Pradesh Grand Kitchen,Shimla,Himachal Pradesh,India,2,Food was disappointing.,Veg Thali,Royal Biryani,Dal Rice,Chicken Biryani
+333,Dum Pukht,Himachal Pradesh Grand Kitchen,Shimla,Himachal Pradesh,India,1,Would not recommend.,Chicken Biryani,Wagyu Steak,Dal Rice,Veg Fried Rice
+334,Wasabi By Morimoto,Himachal Pradesh Grand Kitchen,Shimla,Himachal Pradesh,India,4,Very good food.,Margherita Pizza,Truffle Pasta,Masala Dosa,Veg Fried Rice
+335,Chittaranjan Mistanna Bhandar,Himachal Pradesh Grand Kitchen,Shimla,Himachal Pradesh,India,3,Service could be improved.,Margherita Pizza,Truffle Pasta,Idli Sambar,Chicken Biryani
+336,Sangeetha,Himachal Pradesh Grand Kitchen,Shimla,Himachal Pradesh,India,3,Decent experience.,Veg Thali,Lobster Thermidor,Veg Fried Rice,Chicken Biryani
+337,Idris Biryani,Himachal Pradesh Grand Kitchen,Manali,Himachal Pradesh,India,5,Excellent food and service.,Paneer Butter Masala,Wagyu Steak,Dal Rice,Chicken Biryani
+338,Prost,Himachal Pradesh Grand Kitchen,Manali,Himachal Pradesh,India,5,Highly recommended place.,Margherita Pizza,Wagyu Steak,Masala Dosa,Butter Chicken
+339,Faasos,Himachal Pradesh Grand Kitchen,Manali,Himachal Pradesh,India,3,Decent experience.,Sushi Platter,Premium Sushi,Plain Noodles,Masala Dosa
+340,Mainland China,Himachal Pradesh Grand Kitchen,Manali,Himachal Pradesh,India,3,Service could be improved.,Margherita Pizza,Wagyu Steak,Plain Noodles,Paneer Curry
+341,Rajdhani,Himachal Pradesh Grand Kitchen,Manali,Himachal Pradesh,India,3,Service could be improved.,Margherita Pizza,Lobster Thermidor,Plain Noodles,Masala Dosa
+342,Byg Brewski,Himachal Pradesh Grand Kitchen,Manali,Himachal Pradesh,India,4,Worth the price.,Chicken Biryani,Wagyu Steak,Masala Dosa,Chicken Biryani
+343,Wow! Momo,Himachal Pradesh Grand Kitchen,Dharamshala,Himachal Pradesh,India,4,Very good food.,Margherita Pizza,Lobster Thermidor,Plain Noodles,Paneer Curry
+344,Toit,Himachal Pradesh Grand Kitchen,Dharamshala,Himachal Pradesh,India,3,Average food.,Chicken Biryani,Premium Sushi,Veg Fried Rice,Chicken Biryani
+345,Bikanervala,Himachal Pradesh Grand Kitchen,Dharamshala,Himachal Pradesh,India,3,Average food.,Chicken Biryani,Truffle Pasta,Plain Noodles,Paneer Curry
+346,Behrouz Biryani,Himachal Pradesh Grand Kitchen,Dharamshala,Himachal Pradesh,India,3,Decent experience.,Butter Chicken,Wagyu Steak,Idli Sambar,Masala Dosa
+347,Indian Accent,Himachal Pradesh Grand Kitchen,Dharamshala,Himachal Pradesh,India,1,Terrible experience.,Sushi Platter,Lobster Thermidor,Veg Fried Rice,Masala Dosa
+348,Baan Thai,Himachal Pradesh Grand Kitchen,Dharamshala,Himachal Pradesh,India,5,Amazing taste and premium quality.,Butter Chicken,Lobster Thermidor,Idli Sambar,Paneer Curry
+349,Americano,Uttarakhand Grand Kitchen,Dehradun,Uttarakhand,India,2,Not worth the price.,Chicken Biryani,Wagyu Steak,Dal Rice,Chicken Biryani
+350,Indian Accent,Uttarakhand Grand Kitchen,Dehradun,Uttarakhand,India,1,Would not recommend.,Paneer Butter Masala,Premium Sushi,Dal Rice,Masala Dosa
+351,Peter Cat,Uttarakhand Grand Kitchen,Dehradun,Uttarakhand,India,5,Excellent food and service.,Butter Chicken,Wagyu Steak,Idli Sambar,Veg Fried Rice
+352,Toit,Uttarakhand Grand Kitchen,Dehradun,Uttarakhand,India,2,Food was disappointing.,Margherita Pizza,Lobster Thermidor,Plain Noodles,Chicken Biryani
+353,The Table,Uttarakhand Grand Kitchen,Dehradun,Uttarakhand,India,3,Service could be improved.,Chicken Biryani,Premium Sushi,Veg Fried Rice,Paneer Curry
+354,Ram Ashraya,Uttarakhand Grand Kitchen,Dehradun,Uttarakhand,India,5,Excellent food and service.,Margherita Pizza,Wagyu Steak,Masala Dosa,Chicken Biryani
+355,Bikanervala,Uttarakhand Grand Kitchen,Haridwar,Uttarakhand,India,3,Average food.,Chicken Biryani,Wagyu Steak,Idli Sambar,Masala Dosa
+356,Haldiram’s,Uttarakhand Grand Kitchen,Haridwar,Uttarakhand,India,5,Highly recommended place.,Margherita Pizza,Wagyu Steak,Plain Noodles,Butter Chicken
+357,Indian Accent,Uttarakhand Grand Kitchen,Haridwar,Uttarakhand,India,3,Average food.,Margherita Pizza,Lobster Thermidor,Dal Rice,Butter Chicken
+358,Flurys,Uttarakhand Grand Kitchen,Haridwar,Uttarakhand,India,5,Amazing taste and premium quality.,Sushi Platter,Wagyu Steak,Veg Fried Rice,Masala Dosa
+359,Karim’s,Uttarakhand Grand Kitchen,Haridwar,Uttarakhand,India,2,Below expectations.,Veg Thali,Premium Sushi,Veg Fried Rice,Masala Dosa
+360,Bukhara,Uttarakhand Grand Kitchen,Haridwar,Uttarakhand,India,1,Would not recommend.,Paneer Butter Masala,Truffle Pasta,Plain Noodles,Butter Chicken
+361,Allen’s Kitchen,Uttarakhand Grand Kitchen,Nainital,Uttarakhand,India,5,Highly recommended place.,Butter Chicken,Premium Sushi,Plain Noodles,Chicken Biryani
+362,Americano,Uttarakhand Grand Kitchen,Nainital,Uttarakhand,India,2,Food was disappointing.,Sushi Platter,Premium Sushi,Veg Fried Rice,Paneer Curry
+363,Seefah,Uttarakhand Grand Kitchen,Nainital,Uttarakhand,India,2,Food was disappointing.,Veg Thali,Truffle Pasta,Plain Noodles,Paneer Curry
+364,Shah Ghouse Café,Uttarakhand Grand Kitchen,Nainital,Uttarakhand,India,2,Below expectations.,Butter Chicken,Truffle Pasta,Idli Sambar,Masala Dosa
+365,Falak,Uttarakhand Grand Kitchen,Nainital,Uttarakhand,India,5,Amazing taste and premium quality.,Veg Thali,Lobster Thermidor,Dal Rice,Masala Dosa
+366,Sigree,Uttarakhand Grand Kitchen,Nainital,Uttarakhand,India,4,Worth the price.,Chicken Biryani,Lobster Thermidor,Idli Sambar,Masala Dosa
+367,Behrouz Biryani,Goa Grand Kitchen,North Goa,Goa,India,5,Highly recommended place.,Paneer Butter Masala,Truffle Pasta,Plain Noodles,Butter Chicken
+368,Amrik Sukhdev,Goa Grand Kitchen,North Goa,Goa,India,3,Decent experience.,Sushi Platter,Premium Sushi,Veg Fried Rice,Butter Chicken
+369,Shree Mithai,Goa Grand Kitchen,North Goa,Goa,India,3,Service could be improved.,Butter Chicken,Truffle Pasta,Masala Dosa,Masala Dosa
+370,Villa Maya,Goa Grand Kitchen,North Goa,Goa,India,4,Nice ambience and tasty dishes.,Butter Chicken,Royal Biryani,Dal Rice,Chicken Biryani
+371,United Coffee House,Goa Grand Kitchen,North Goa,Goa,India,3,Average food.,Paneer Butter Masala,Truffle Pasta,Veg Fried Rice,Veg Fried Rice
+372,Kashi Art Cafe,Goa Grand Kitchen,North Goa,Goa,India,5,Highly recommended place.,Sushi Platter,Wagyu Steak,Idli Sambar,Paneer Curry
+373,Anjappar,Goa Grand Kitchen,South Goa,Goa,India,1,Terrible experience.,Sushi Platter,Royal Biryani,Veg Fried Rice,Chicken Biryani
+374,O Pedro,Goa Grand Kitchen,South Goa,Goa,India,2,Food was disappointing.,Butter Chicken,Wagyu Steak,Idli Sambar,Masala Dosa
+375,Bukhara,Goa Grand Kitchen,South Goa,Goa,India,3,Decent experience.,Paneer Butter Masala,Royal Biryani,Dal Rice,Chicken Biryani
+376,Gunpowder,Goa Grand Kitchen,South Goa,Goa,India,3,Decent experience.,Butter Chicken,Truffle Pasta,Dal Rice,Paneer Curry
+377,Burma Burma,Goa Grand Kitchen,South Goa,Goa,India,2,Not worth the price.,Butter Chicken,Royal Biryani,Masala Dosa,Butter Chicken
+378,Tunday Kababi,Goa Grand Kitchen,South Goa,Goa,India,2,Below expectations.,Margherita Pizza,Royal Biryani,Veg Fried Rice,Butter Chicken
+379,Falak,Sikkim Grand Kitchen,Gangtok,Sikkim,India,5,Excellent food and service.,Veg Thali,Wagyu Steak,Plain Noodles,Paneer Curry
+380,Indian Summer Cafe,Sikkim Grand Kitchen,Gangtok,Sikkim,India,5,Excellent food and service.,Sushi Platter,Truffle Pasta,Plain Noodles,Masala Dosa
+381,Peter Cat,Sikkim Grand Kitchen,Gangtok,Sikkim,India,2,Food was disappointing.,Veg Thali,Wagyu Steak,Dal Rice,Butter Chicken
+382,Farmlore,Sikkim Grand Kitchen,Gangtok,Sikkim,India,3,Decent experience.,Butter Chicken,Royal Biryani,Idli Sambar,Masala Dosa
+383,Sangeetha,Sikkim Grand Kitchen,Gangtok,Sikkim,India,4,Nice ambience and tasty dishes.,Butter Chicken,Wagyu Steak,Idli Sambar,Paneer Curry
+384,Dum Pukht,Sikkim Grand Kitchen,Gangtok,Sikkim,India,2,Food was disappointing.,Paneer Butter Masala,Lobster Thermidor,Dal Rice,Paneer Curry
+385,Biryani By Kilo,Tripura Grand Kitchen,Agartala,Tripura,India,1,Very poor quality.,Margherita Pizza,Premium Sushi,Masala Dosa,Chicken Biryani
+386,Copper Chimney,Tripura Grand Kitchen,Agartala,Tripura,India,3,Decent experience.,Sushi Platter,Royal Biryani,Masala Dosa,Masala Dosa
+387,Faasos,Tripura Grand Kitchen,Agartala,Tripura,India,1,Would not recommend.,Sushi Platter,Premium Sushi,Veg Fried Rice,Chicken Biryani
+388,Burma Burma,Tripura Grand Kitchen,Agartala,Tripura,India,3,Decent experience.,Veg Thali,Truffle Pasta,Idli Sambar,Veg Fried Rice
+389,Natural Ice Cream,Tripura Grand Kitchen,Agartala,Tripura,India,2,Food was disappointing.,Margherita Pizza,Premium Sushi,Idli Sambar,Paneer Curry
+390,Amrik Sukhdev,Tripura Grand Kitchen,Agartala,Tripura,India,1,Very poor quality.,Butter Chicken,Wagyu Steak,Dal Rice,Veg Fried Rice
+391,Kashi Art Cafe,Manipur Grand Kitchen,Imphal,Manipur,India,2,Below expectations.,Veg Thali,Royal Biryani,Plain Noodles,Paneer Curry
+392,Mocambo,Manipur Grand Kitchen,Imphal,Manipur,India,3,Service could be improved.,Butter Chicken,Wagyu Steak,Plain Noodles,Veg Fried Rice
+393,Flurys,Manipur Grand Kitchen,Imphal,Manipur,India,3,Service could be improved.,Margherita Pizza,Wagyu Steak,Dal Rice,Chicken Biryani
+394,Bomras,Manipur Grand Kitchen,Imphal,Manipur,India,5,Excellent food and service.,Chicken Biryani,Wagyu Steak,Veg Fried Rice,Chicken Biryani
+395,Masala Library,Manipur Grand Kitchen,Imphal,Manipur,India,4,Nice ambience and tasty dishes.,Margherita Pizza,Truffle Pasta,Idli Sambar,Butter Chicken
+396,Nagarjuna,Manipur Grand Kitchen,Imphal,Manipur,India,2,Below expectations.,Paneer Butter Masala,Lobster Thermidor,Veg Fried Rice,Chicken Biryani
+397,MTR,Meghalaya Grand Kitchen,Shillong,Meghalaya,India,2,Not worth the price.,Veg Thali,Royal Biryani,Dal Rice,Masala Dosa
+398,Allen’s Kitchen,Meghalaya Grand Kitchen,Shillong,Meghalaya,India,3,Service could be improved.,Margherita Pizza,Truffle Pasta,Masala Dosa,Butter Chicken
+399,Nagarjuna,Meghalaya Grand Kitchen,Shillong,Meghalaya,India,3,Decent experience.,Margherita Pizza,Premium Sushi,Veg Fried Rice,Chicken Biryani
+400,Kailash Parbat,Meghalaya Grand Kitchen,Shillong,Meghalaya,India,2,Below expectations.,Sushi Platter,Truffle Pasta,Masala Dosa,Butter Chicken
+401,Mainland China,Meghalaya Grand Kitchen,Shillong,Meghalaya,India,1,Very poor quality.,Paneer Butter Masala,Truffle Pasta,Idli Sambar,Veg Fried Rice
+402,United Coffee House,Meghalaya Grand Kitchen,Shillong,Meghalaya,India,3,Decent experience.,Veg Thali,Wagyu Steak,Idli Sambar,Chicken Biryani
+403,Zaffran,Mizoram Grand Kitchen,Aizawl,Mizoram,India,2,Below expectations.,Butter Chicken,Lobster Thermidor,Veg Fried Rice,Masala Dosa
+404,Oh! Calcutta,Mizoram Grand Kitchen,Aizawl,Mizoram,India,3,Service could be improved.,Paneer Butter Masala,Truffle Pasta,Plain Noodles,Masala Dosa
+405,Zaffran,Mizoram Grand Kitchen,Aizawl,Mizoram,India,4,Worth the price.,Sushi Platter,Premium Sushi,Idli Sambar,Veg Fried Rice
+406,Masala Library,Mizoram Grand Kitchen,Aizawl,Mizoram,India,3,Decent experience.,Sushi Platter,Royal Biryani,Dal Rice,Chicken Biryani
+407,Kailash Parbat,Mizoram Grand Kitchen,Aizawl,Mizoram,India,1,Very poor quality.,Paneer Butter Masala,Premium Sushi,Veg Fried Rice,Butter Chicken
+408,Keventers,Mizoram Grand Kitchen,Aizawl,Mizoram,India,1,Terrible experience.,Butter Chicken,Premium Sushi,Idli Sambar,Butter Chicken
+409,Biryani By Kilo,Nagaland Grand Kitchen,Kohima,Nagaland,India,3,Average food.,Chicken Biryani,Lobster Thermidor,Veg Fried Rice,Veg Fried Rice
+410,Zaffran,Nagaland Grand Kitchen,Kohima,Nagaland,India,3,Service could be improved.,Margherita Pizza,Lobster Thermidor,Plain Noodles,Butter Chicken
+411,Seefah,Nagaland Grand Kitchen,Kohima,Nagaland,India,3,Average food.,Chicken Biryani,Wagyu Steak,Masala Dosa,Butter Chicken
+412,Behrouz Biryani,Nagaland Grand Kitchen,Kohima,Nagaland,India,4,Nice ambience and tasty dishes.,Veg Thali,Lobster Thermidor,Plain Noodles,Chicken Biryani
+413,Karim’s,Nagaland Grand Kitchen,Kohima,Nagaland,India,5,Highly recommended place.,Sushi Platter,Premium Sushi,Veg Fried Rice,Chicken Biryani
+414,SodaBottleOpenerWala,Nagaland Grand Kitchen,Kohima,Nagaland,India,5,Highly recommended place.,Paneer Butter Masala,Premium Sushi,Idli Sambar,Veg Fried Rice
+415,Chung Wah,Arunachal Pradesh Grand Kitchen,Itanagar,Arunachal Pradesh,India,2,Not worth the price.,Sushi Platter,Royal Biryani,Veg Fried Rice,Butter Chicken
+416,Zaffran,Arunachal Pradesh Grand Kitchen,Itanagar,Arunachal Pradesh,India,5,Highly recommended place.,Chicken Biryani,Lobster Thermidor,Idli Sambar,Paneer Curry
+417,Allen’s Kitchen,Arunachal Pradesh Grand Kitchen,Itanagar,Arunachal Pradesh,India,4,Very good food.,Margherita Pizza,Royal Biryani,Dal Rice,Chicken Biryani
+418,Ram Ashraya,Arunachal Pradesh Grand Kitchen,Itanagar,Arunachal Pradesh,India,5,Excellent food and service.,Sushi Platter,Premium Sushi,Masala Dosa,Paneer Curry
+419,Amrik Sukhdev,Arunachal Pradesh Grand Kitchen,Itanagar,Arunachal Pradesh,India,5,Excellent food and service.,Margherita Pizza,Premium Sushi,Plain Noodles,Butter Chicken
+420,Baan Thai,Arunachal Pradesh Grand Kitchen,Itanagar,Arunachal Pradesh,India,5,Excellent food and service.,Margherita Pizza,Premium Sushi,Dal Rice,Butter Chicken
+421,The Brick House,UK Signature Eats,London,,UK,3,Average food.,Chocolate cake,Wagyu Steak,Couscous,Lentil soup
+422,Seoul Kitchen,South Korea Signature Eats,Seoul,,South Korea,1,Terrible experience.,Brownie,Royal Biryani,Donut,Donut
+423,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,5,Excellent food and service.,Grilled cheese,Truffle Pasta,Tagine,Chow mein
+424,Kimchi House,South Korea Signature Eats,Seoul,,South Korea,3,Average food.,Couscous,Premium Sushi,Kimchi stew,Pad Thai
+425,Sakura House,Japan Signature Eats,Tokyo,,Japan,1,Would not recommend.,Roast lamb,Wagyu Steak,Green curry,Ramen
+426,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,3,Service could be improved.,Garlic bread,Lobster Thermidor,Satay,Ramen
+427,Urban Table,Germany Signature Eats,Berlin,,Germany,5,Excellent food and service.,Couscous,Wagyu Steak,Miso soup,Tiramisu
+428,Fuji Grill,Japan Signature Eats,Tokyo,,Japan,4,Worth the price.,Roast lamb,Royal Biryani,Mochi,Brownie
+429,Cafe Belle,France Signature Eats,Paris,,France,2,Below expectations.,Mochi,Premium Sushi,Ceviche,Meatballs
+430,Hanami Grill,South Korea Signature Eats,Seoul,,South Korea,5,Excellent food and service.,Miso soup,Truffle Pasta,Dumpling,Satay
+431,Casa Roma,Italy Signature Eats,Rome,,Italy,3,Average food.,Jollof rice,Wagyu Steak,Meatballs,Taco
+432,The Copper Pot,UK Signature Eats,London,,UK,2,Below expectations.,Fish curry,Truffle Pasta,Roast lamb,Burger
+433,Amigo Grill,Mexico Signature Eats,Mexico City,,Mexico,2,Food was disappointing.,Panna cotta,Lobster Thermidor,Sandwich,Salsa
+434,La Piazza,Italy Signature Eats,Rome,,Italy,2,Not worth the price.,Salsa,Royal Biryani,Burger,Fajita
+435,The Ivy Room,USA Signature Eats,New York,,USA,1,Terrible experience.,Satay,Truffle Pasta,Samosa,Mochi
+436,Garden Room,UK Signature Eats,London,,UK,5,Highly recommended place.,Fajita,Wagyu Steak,Poke bowl,Fondue
+437,Golden Dragon,China Signature Eats,Beijing,,China,1,Terrible experience.,Nachos,Royal Biryani,Shawarma,Tandoori chicken
+438,Samba Kitchen,Brazil Signature Eats,Rio de Janeiro,,Brazil,5,Amazing taste and premium quality.,Burger,Royal Biryani,Pancake,Tandoori chicken
+439,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,4,Worth the price.,Lentil soup,Royal Biryani,Brownie,Fish curry
+440,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,2,Below expectations.,Fried chicken,Lobster Thermidor,Tiramisu,Chocolate cake
+441,Dragon Pearl,China Signature Eats,Beijing,,China,3,Decent experience.,Tandoori chicken,Premium Sushi,Teriyaki chicken,Pudding
+442,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,4,Nice ambience and tasty dishes.,Apple pie,Wagyu Steak,Coconut rice,Hummus
+443,BBQ Garden,South Korea Signature Eats,Seoul,,South Korea,4,Worth the price.,Kebab,Premium Sushi,Curry,Quesadilla
+444,The Ivy Room,USA Signature Eats,New York,,USA,2,Not worth the price.,Bibimbap,Truffle Pasta,Sushi,Noodles
+445,Old Mill,Germany Signature Eats,Berlin,,Germany,5,Highly recommended place.,Pasta,Wagyu Steak,Ice cream,Satay
+446,Rio Bistro,Brazil Signature Eats,Rio de Janeiro,,Brazil,5,Highly recommended place.,Goulash,Lobster Thermidor,Tagine,Spring roll
+447,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,2,Food was disappointing.,Mochi,Truffle Pasta,Bibimbap,Chicken soup
+448,The Brick House,UK Signature Eats,London,,UK,4,Nice ambience and tasty dishes.,Hot dog,Royal Biryani,Custard,Waffle
+449,Beer Garden,Germany Signature Eats,Berlin,,Germany,5,Amazing taste and premium quality.,Ramen,Royal Biryani,Kimchi stew,Teriyaki chicken
+450,Trattoria Uno,Italy Signature Eats,Rome,,Italy,4,Worth the price.,Sandwich,Wagyu Steak,Biryani,Fried tofu
+451,Fuji Grill,Japan Signature Eats,Tokyo,,Japan,3,Service could be improved.,Dim sum,Truffle Pasta,Pierogi,Bibimbap
+452,Garden Room,UK Signature Eats,London,,UK,4,Nice ambience and tasty dishes.,Tagine,Lobster Thermidor,Jollof rice,Paella
+453,Cafe Belle,France Signature Eats,Paris,,France,4,Very good food.,Ice cream,Wagyu Steak,Guacamole,Spaghetti
+454,Kimchi House,South Korea Signature Eats,Seoul,,South Korea,4,Worth the price.,Bruschetta,Royal Biryani,Spring roll,Kebab
+455,Il Forno,Italy Signature Eats,Rome,,Italy,5,Amazing taste and premium quality.,Hummus,Royal Biryani,Red curry,Green curry
+456,Jade Garden,China Signature Eats,Beijing,,China,3,Decent experience.,Lentil soup,Wagyu Steak,Burrito,Falafel
+457,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,2,Food was disappointing.,Fried chicken,Wagyu Steak,Sushi,Falafel
+458,Kings Table,USA Signature Eats,New York,,USA,2,Below expectations.,Empanada,Premium Sushi,Tomato soup,Biryani
+459,Trattoria Uno,Italy Signature Eats,Rome,,Italy,1,Terrible experience.,Empanada,Royal Biryani,Panna cotta,Salsa
+460,Kimchi House,South Korea Signature Eats,Seoul,,South Korea,2,Below expectations.,Tandoori chicken,Premium Sushi,Fondue,Meatballs
+461,Tokyo Table,Japan Signature Eats,Tokyo,,Japan,5,Amazing taste and premium quality.,Cheesecake,Premium Sushi,Dim sum,Burrito
+462,Fuji Grill,Japan Signature Eats,Tokyo,,Japan,2,Below expectations.,Miso soup,Wagyu Steak,Noodles,Sandwich
+463,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,3,Service could be improved.,Kimchi stew,Truffle Pasta,Taco,Burger
+464,Old Mill,Germany Signature Eats,Berlin,,Germany,2,Below expectations.,Empanada,Lobster Thermidor,Meatballs,Poke bowl
+465,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,4,Very good food.,Dumpling,Lobster Thermidor,Fajita,Naan
+466,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,4,Very good food.,Biryani,Lobster Thermidor,Croissant,Lasagna
+467,Maison Blanc,France Signature Eats,Paris,,France,1,Very poor quality.,Tandoori chicken,Truffle Pasta,Pizza,Hot dog
+468,The Ivy Room,USA Signature Eats,New York,,USA,3,Average food.,Ramen,Truffle Pasta,Green curry,Couscous
+469,Bosphorus,UAE Signature Eats,Dubai,,UAE,2,Food was disappointing.,Brownie,Wagyu Steak,Chow mein,Coconut rice
+470,Il Forno,Italy Signature Eats,Rome,,Italy,2,Not worth the price.,Fondue,Wagyu Steak,Ice cream,Goulash
+471,Union Jack Grill,UK Signature Eats,London,,UK,3,Decent experience.,Pierogi,Premium Sushi,Taco,Jollof rice
+472,Copacabana Grill,Brazil Signature Eats,Rio de Janeiro,,Brazil,5,Excellent food and service.,Nachos,Premium Sushi,Spaghetti,Pancake
+473,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,1,Would not recommend.,Poke bowl,Royal Biryani,Burger,Burrito
+474,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,3,Service could be improved.,Cheesecake,Royal Biryani,Chow mein,Meatballs
+475,Rice & Spice,South Korea Signature Eats,Seoul,,South Korea,4,Very good food.,Fish and chips,Truffle Pasta,Brownie,Crepe
+476,The Green Door,USA Signature Eats,New York,,USA,4,Nice ambience and tasty dishes.,Poke bowl,Wagyu Steak,Custard,Curry
+477,Berlin Kitchen,Germany Signature Eats,Berlin,,Germany,3,Service could be improved.,Red curry,Truffle Pasta,Cheesecake,Shawarma
+478,Bosphorus,UAE Signature Eats,Dubai,,UAE,4,Worth the price.,Samosa,Wagyu Steak,Taco,Fried tofu
+479,Urban Table,Germany Signature Eats,Berlin,,Germany,4,Nice ambience and tasty dishes.,Burger,Premium Sushi,Coconut rice,Pudding
+480,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,5,Excellent food and service.,Poke bowl,Royal Biryani,Fajita,Chow mein
+481,Urban Table,Germany Signature Eats,Berlin,,Germany,5,Excellent food and service.,Brownie,Premium Sushi,Roast lamb,Lentil soup
+482,Red Lotus,China Signature Eats,Beijing,,China,5,Highly recommended place.,Pierogi,Truffle Pasta,Jollof rice,Curry
+483,Samba Kitchen,Brazil Signature Eats,Rio de Janeiro,,Brazil,5,Highly recommended place.,Shawarma,Truffle Pasta,Apple pie,Lentil soup
+484,Cantina Roja,Mexico Signature Eats,Mexico City,,Mexico,4,Very good food.,Shawarma,Royal Biryani,Brownie,Hummus
+485,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,1,Very poor quality.,Quesadilla,Wagyu Steak,Burrito,Pudding
+486,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,4,Very good food.,Bibimbap,Premium Sushi,Fried rice,Burrito
+487,Trattoria Uno,Italy Signature Eats,Rome,,Italy,5,Highly recommended place.,Hummus,Wagyu Steak,Fish and chips,Tiramisu
+488,The Green Door,USA Signature Eats,New York,,USA,3,Decent experience.,Tiramisu,Royal Biryani,Custard,Custard
+489,Beer Garden,Germany Signature Eats,Berlin,,Germany,2,Food was disappointing.,Satay,Lobster Thermidor,Green curry,Chocolate cake
+490,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,2,Not worth the price.,Tagine,Royal Biryani,Donut,Poke bowl
+491,Bosphorus,UAE Signature Eats,Dubai,,UAE,1,Would not recommend.,Spring roll,Royal Biryani,Burrito,Donut
+492,Red Lotus,China Signature Eats,Beijing,,China,4,Worth the price.,Apple pie,Lobster Thermidor,Falafel,Green curry
+493,Urban Table,Germany Signature Eats,Berlin,,Germany,3,Service could be improved.,Paella,Truffle Pasta,Satay,Couscous
+494,Le Petit Cafe,France Signature Eats,Paris,,France,1,Terrible experience.,Satay,Truffle Pasta,Kebab,Goulash
+495,The Copper Pot,UK Signature Eats,London,,UK,1,Would not recommend.,Samosa,Lobster Thermidor,Guacamole,Satay
+496,Samba Kitchen,Brazil Signature Eats,Rio de Janeiro,,Brazil,4,Nice ambience and tasty dishes.,Fish curry,Wagyu Steak,Burrito,Dumpling
+497,Le Petit Cafe,France Signature Eats,Paris,,France,1,Would not recommend.,Crepe,Royal Biryani,Croissant,Ice cream
+498,Tokyo Table,Japan Signature Eats,Tokyo,,Japan,2,Below expectations.,Pudding,Lobster Thermidor,Red curry,Tiramisu
+499,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,5,Excellent food and service.,Mochi,Royal Biryani,Naan,Guacamole
+500,Berlin Kitchen,Germany Signature Eats,Berlin,,Germany,3,Average food.,Grilled cheese,Wagyu Steak,Red curry,Apple pie
+501,The Copper Pot,UK Signature Eats,London,,UK,5,Highly recommended place.,Pasta,Wagyu Steak,Samosa,Tagine
+502,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,4,Worth the price.,Ceviche,Lobster Thermidor,Couscous,Coconut rice
+503,Black Forest,Germany Signature Eats,Berlin,,Germany,5,Excellent food and service.,Empanada,Lobster Thermidor,Fried rice,Kimchi stew
+504,London Bistro,USA Signature Eats,New York,,USA,4,Worth the price.,Pancake,Wagyu Steak,Goulash,Spring roll
+505,Istanbul Grill,UAE Signature Eats,Dubai,,UAE,1,Would not recommend.,Roast lamb,Lobster Thermidor,Burger,Crepe
+506,Rio Bistro,Brazil Signature Eats,Rio de Janeiro,,Brazil,4,Nice ambience and tasty dishes.,Spring roll,Premium Sushi,Fish and chips,Fish curry
+507,Black Forest,Germany Signature Eats,Berlin,,Germany,5,Amazing taste and premium quality.,Chocolate cake,Wagyu Steak,Spaghetti,Biryani
+508,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,1,Very poor quality.,Curry,Royal Biryani,Lasagna,Biryani
+509,Rice & Spice,South Korea Signature Eats,Seoul,,South Korea,3,Decent experience.,Dim sum,Lobster Thermidor,Mango sticky rice,Pasta
+510,Casa Azul,Mexico Signature Eats,Mexico City,,Mexico,2,Food was disappointing.,Risotto,Premium Sushi,Jollof rice,Falafel
+511,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,4,Worth the price.,Meatballs,Royal Biryani,Fish and chips,Falafel
+512,La Fiesta,Mexico Signature Eats,Mexico City,,Mexico,2,Food was disappointing.,Fish curry,Wagyu Steak,Pudding,Poke bowl
+513,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,4,Very good food.,Red curry,Lobster Thermidor,Nachos,Couscous
+514,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,1,Would not recommend.,Chicken soup,Lobster Thermidor,Custard,Kimchi stew
+515,La Fiesta,Mexico Signature Eats,Mexico City,,Mexico,2,Not worth the price.,Pizza,Wagyu Steak,Tiramisu,Falafel
+516,Union Jack Grill,UK Signature Eats,London,,UK,4,Very good food.,Chicken soup,Premium Sushi,Croissant,Hummus
+517,Casa Brazil,Brazil Signature Eats,Rio de Janeiro,,Brazil,4,Worth the price.,Fish curry,Truffle Pasta,Garlic bread,Sushi
+518,El Toro,Mexico Signature Eats,Mexico City,,Mexico,1,Would not recommend.,Grilled cheese,Royal Biryani,Garlic bread,Tiramisu
+519,Bistro Rouge,France Signature Eats,Paris,,France,4,Very good food.,Mango sticky rice,Wagyu Steak,Kimchi stew,Spring roll
+520,The Ivy Room,USA Signature Eats,New York,,USA,5,Excellent food and service.,Burrito,Royal Biryani,Pad Thai,Tagine
+521,La Piazza,Italy Signature Eats,Rome,,Italy,1,Would not recommend.,Tempura,Premium Sushi,Fondue,Croissant
+522,Golden Palm,Brazil Signature Eats,Rio de Janeiro,,Brazil,1,Very poor quality.,Bibimbap,Premium Sushi,Roast lamb,Green curry
+523,Beer Garden,Germany Signature Eats,Berlin,,Germany,1,Very poor quality.,Garlic bread,Premium Sushi,Tempura,Nachos
+524,Wasabi Way,Japan Signature Eats,Tokyo,,Japan,4,Very good food.,Jollof rice,Truffle Pasta,Tandoori chicken,Panna cotta
+525,Maison Blanc,France Signature Eats,Paris,,France,1,Terrible experience.,Roast lamb,Wagyu Steak,Goulash,Pancake
+526,Rice & Spice,South Korea Signature Eats,Seoul,,South Korea,1,Would not recommend.,Mango sticky rice,Wagyu Steak,Fish curry,Chicken soup
+527,Fuji Grill,Japan Signature Eats,Tokyo,,Japan,1,Would not recommend.,Nachos,Wagyu Steak,Pudding,Ramen
+528,The Copper Pot,UK Signature Eats,London,,UK,3,Service could be improved.,Waffle,Lobster Thermidor,Teriyaki chicken,Roast lamb
+529,The Ivy Room,USA Signature Eats,New York,,USA,3,Average food.,Risotto,Truffle Pasta,Poke bowl,Donut
+530,Chez Pierre,France Signature Eats,Paris,,France,2,Food was disappointing.,Burger,Premium Sushi,Custard,Miso soup
+531,Lucky Panda,China Signature Eats,Beijing,,China,1,Terrible experience.,Spaghetti,Lobster Thermidor,Dumpling,Donut
+532,Copacabana Grill,Brazil Signature Eats,Rio de Janeiro,,Brazil,1,Would not recommend.,Risotto,Royal Biryani,Cheesecake,Tagine
+533,Lucky Panda,China Signature Eats,Beijing,,China,5,Highly recommended place.,Quesadilla,Wagyu Steak,Fish curry,Kebab
+534,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,4,Nice ambience and tasty dishes.,Chicken soup,Royal Biryani,Fish and chips,Fried tofu
+535,Berlin Kitchen,Germany Signature Eats,Berlin,,Germany,3,Average food.,Pasta,Wagyu Steak,Apple pie,Crepe
+536,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,4,Worth the price.,Miso soup,Royal Biryani,Risotto,Burger
+537,Dragon Pearl,China Signature Eats,Beijing,,China,1,Terrible experience.,Fried chicken,Wagyu Steak,Fried rice,Panna cotta
+538,Kimchi House,South Korea Signature Eats,Seoul,,South Korea,5,Highly recommended place.,Miso soup,Wagyu Steak,Samosa,Pizza
+539,Anatolia,UAE Signature Eats,Dubai,,UAE,3,Average food.,Ramen,Wagyu Steak,Burrito,Meatballs
+540,The Ivy Room,USA Signature Eats,New York,,USA,3,Decent experience.,Spring roll,Lobster Thermidor,Fondue,Guacamole
+541,Lucky Panda,China Signature Eats,Beijing,,China,2,Not worth the price.,Roast lamb,Wagyu Steak,Mochi,Pasta
+542,Tokyo Table,Japan Signature Eats,Tokyo,,Japan,3,Average food.,Naan,Premium Sushi,Mochi,Guacamole
+543,Seoul Kitchen,South Korea Signature Eats,Seoul,,South Korea,5,Highly recommended place.,Tagine,Wagyu Steak,Tandoori chicken,Paella
+544,Olive Tree,UAE Signature Eats,Dubai,,UAE,3,Service could be improved.,Pizza,Wagyu Steak,Fajita,Mochi
+545,Golden Dragon,China Signature Eats,Beijing,,China,2,Food was disappointing.,Burrito,Lobster Thermidor,Samosa,Custard
+546,Bella Vita,Italy Signature Eats,Rome,,Italy,2,Below expectations.,Mango sticky rice,Premium Sushi,Hummus,Burrito
+547,Seoul Kitchen,South Korea Signature Eats,Seoul,,South Korea,2,Below expectations.,Couscous,Wagyu Steak,Jollof rice,Cheesecake
+548,Copacabana Grill,Brazil Signature Eats,Rio de Janeiro,,Brazil,5,Amazing taste and premium quality.,Falafel,Wagyu Steak,Mochi,Goulash
+549,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,3,Service could be improved.,Coconut rice,Royal Biryani,Naan,Donut
+550,The Ivy Room,USA Signature Eats,New York,,USA,3,Decent experience.,Paella,Wagyu Steak,Dumpling,Ramen
+551,The Green Door,USA Signature Eats,New York,,USA,5,Amazing taste and premium quality.,Curry,Royal Biryani,Spring roll,Red curry
+552,Royal Oak,USA Signature Eats,New York,,USA,5,Excellent food and service.,Pad Thai,Lobster Thermidor,Fish curry,Crepe
+553,Chez Pierre,France Signature Eats,Paris,,France,5,Excellent food and service.,Fish and chips,Wagyu Steak,Biryani,Satay
+554,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,5,Amazing taste and premium quality.,Apple pie,Royal Biryani,Spaghetti,Fish and chips
+555,Garden Room,UK Signature Eats,London,,UK,4,Very good food.,Chow mein,Truffle Pasta,Guacamole,Fried rice
+556,Union Jack Grill,UK Signature Eats,London,,UK,4,Worth the price.,Kebab,Premium Sushi,Couscous,Naan
+557,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,5,Excellent food and service.,Spring roll,Lobster Thermidor,Paella,Jollof rice
+558,Tokyo Table,Japan Signature Eats,Tokyo,,Japan,4,Worth the price.,Burger,Truffle Pasta,Pad Thai,Poke bowl
+559,Bosphorus,UAE Signature Eats,Dubai,,UAE,2,Below expectations.,Red curry,Truffle Pasta,Pad Thai,Grilled cheese
+560,Bella Vita,Italy Signature Eats,Rome,,Italy,1,Very poor quality.,Panna cotta,Wagyu Steak,Ramen,Waffle
+561,Golden Dragon,China Signature Eats,Beijing,,China,1,Very poor quality.,Goulash,Lobster Thermidor,Nachos,Pancake
+562,Seoul Kitchen,South Korea Signature Eats,Seoul,,South Korea,4,Nice ambience and tasty dishes.,Quesadilla,Royal Biryani,Chicken soup,Risotto
+563,Rio Bistro,Brazil Signature Eats,Rio de Janeiro,,Brazil,4,Worth the price.,Tempura,Truffle Pasta,Pudding,Apple pie
+564,Amigo Grill,Mexico Signature Eats,Mexico City,,Mexico,5,Amazing taste and premium quality.,Biryani,Royal Biryani,Pudding,Paella
+565,Istanbul Grill,UAE Signature Eats,Dubai,,UAE,4,Worth the price.,Chocolate cake,Wagyu Steak,Grilled cheese,Noodles
+566,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,4,Worth the price.,Crepe,Truffle Pasta,Pad Thai,Jollof rice
+567,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,1,Terrible experience.,Brownie,Premium Sushi,Couscous,Spaghetti
+568,Garden Room,UK Signature Eats,London,,UK,4,Worth the price.,Curry,Royal Biryani,Kebab,Noodles
+569,Turkish Delight,UAE Signature Eats,Dubai,,UAE,5,Excellent food and service.,Mochi,Truffle Pasta,Miso soup,Bruschetta
+570,Old Mill,Germany Signature Eats,Berlin,,Germany,3,Service could be improved.,Poke bowl,Wagyu Steak,Fried tofu,Garlic bread
+571,Casa Roma,Italy Signature Eats,Rome,,Italy,1,Would not recommend.,Chocolate cake,Royal Biryani,Fried chicken,Burger
+572,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,4,Worth the price.,Chocolate cake,Truffle Pasta,Kimchi stew,Mochi
+573,La Piazza,Italy Signature Eats,Rome,,Italy,5,Excellent food and service.,Ice cream,Lobster Thermidor,Spring roll,Curry
+574,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,5,Highly recommended place.,Poke bowl,Lobster Thermidor,Fajita,Shawarma
+575,Casa Roma,Italy Signature Eats,Rome,,Italy,4,Worth the price.,Pancake,Lobster Thermidor,Jollof rice,Fried tofu
+576,Il Forno,Italy Signature Eats,Rome,,Italy,3,Decent experience.,Fajita,Royal Biryani,Custard,Hummus
+577,Trattoria Uno,Italy Signature Eats,Rome,,Italy,2,Not worth the price.,Hot dog,Royal Biryani,Fajita,Burger
+578,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,5,Amazing taste and premium quality.,Ceviche,Premium Sushi,Pad Thai,Pad Thai
+579,Il Forno,Italy Signature Eats,Rome,,Italy,3,Decent experience.,Nachos,Lobster Thermidor,Fajita,Donut
+580,Cafe Belle,France Signature Eats,Paris,,France,5,Amazing taste and premium quality.,Chicken soup,Truffle Pasta,Donut,Croissant
+581,Cantina Roja,Mexico Signature Eats,Mexico City,,Mexico,3,Decent experience.,Fish and chips,Truffle Pasta,Noodles,Satay
+582,Jade Garden,China Signature Eats,Beijing,,China,2,Not worth the price.,Bibimbap,Premium Sushi,Fried tofu,Roast lamb
+583,Sakura House,Japan Signature Eats,Tokyo,,Japan,1,Would not recommend.,Bruschetta,Wagyu Steak,Noodles,Pudding
+584,Jade Garden,China Signature Eats,Beijing,,China,5,Highly recommended place.,Nachos,Lobster Thermidor,Meatballs,Dim sum
+585,Cafe Belle,France Signature Eats,Paris,,France,2,Not worth the price.,Coconut rice,Royal Biryani,Brownie,Quesadilla
+586,Oxford Kitchen,UK Signature Eats,London,,UK,5,Excellent food and service.,Apple pie,Wagyu Steak,Chicken soup,Garlic bread
+587,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,2,Not worth the price.,Guacamole,Premium Sushi,Kebab,Naan
+588,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,2,Not worth the price.,Taco,Truffle Pasta,Tempura,Sushi
+589,Il Forno,Italy Signature Eats,Rome,,Italy,2,Below expectations.,Miso soup,Royal Biryani,Pizza,Lasagna
+590,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,5,Highly recommended place.,Tiramisu,Truffle Pasta,Pad Thai,Mango sticky rice
+591,BBQ Garden,South Korea Signature Eats,Seoul,,South Korea,5,Excellent food and service.,Poke bowl,Premium Sushi,Goulash,Coconut rice
+592,Black Forest,Germany Signature Eats,Berlin,,Germany,1,Very poor quality.,Taco,Lobster Thermidor,Spring roll,Falafel
+593,Bistro Rouge,France Signature Eats,Paris,,France,2,Not worth the price.,Lasagna,Premium Sushi,Garlic bread,Ceviche
+594,Berlin Kitchen,Germany Signature Eats,Berlin,,Germany,3,Service could be improved.,Sushi,Truffle Pasta,Jollof rice,Chow mein
+595,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,2,Not worth the price.,Pierogi,Truffle Pasta,Lasagna,Lentil soup
+596,Urban Table,Germany Signature Eats,Berlin,,Germany,3,Average food.,Croissant,Premium Sushi,Satay,Jollof rice
+597,Oxford Kitchen,UK Signature Eats,London,,UK,3,Average food.,Tandoori chicken,Royal Biryani,Miso soup,Fondue
+598,Golden Palm,Brazil Signature Eats,Rio de Janeiro,,Brazil,2,Not worth the price.,Sandwich,Royal Biryani,Ramen,Goulash
+599,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,1,Terrible experience.,Pasta,Truffle Pasta,Burger,Fondue
+600,Garden Room,UK Signature Eats,London,,UK,5,Amazing taste and premium quality.,Burger,Lobster Thermidor,Poke bowl,Ramen
+601,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,4,Worth the price.,Red curry,Lobster Thermidor,Hummus,Pancake
+602,La Piazza,Italy Signature Eats,Rome,,Italy,5,Excellent food and service.,Empanada,Lobster Thermidor,Curry,Pudding
+603,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,1,Would not recommend.,Apple pie,Premium Sushi,Risotto,Roast lamb
+604,Chez Pierre,France Signature Eats,Paris,,France,5,Amazing taste and premium quality.,Fish curry,Wagyu Steak,Mango sticky rice,Tiramisu
+605,Trattoria Uno,Italy Signature Eats,Rome,,Italy,5,Highly recommended place.,Naan,Wagyu Steak,Tiramisu,Pasta
+606,Casa Azul,Mexico Signature Eats,Mexico City,,Mexico,4,Nice ambience and tasty dishes.,Brownie,Premium Sushi,Chocolate cake,Naan
+607,Amigo Grill,Mexico Signature Eats,Mexico City,,Mexico,1,Would not recommend.,Curry,Truffle Pasta,Crepe,Teriyaki chicken
+608,Berlin Kitchen,Germany Signature Eats,Berlin,,Germany,3,Average food.,Tempura,Royal Biryani,Goulash,Sushi
+609,Casa Brazil,Brazil Signature Eats,Rio de Janeiro,,Brazil,5,Excellent food and service.,Red curry,Lobster Thermidor,Lentil soup,Bruschetta
+610,Maison Blanc,France Signature Eats,Paris,,France,4,Worth the price.,Hot dog,Wagyu Steak,Brownie,Sushi
+611,Hanami Grill,South Korea Signature Eats,Seoul,,South Korea,5,Excellent food and service.,Spring roll,Royal Biryani,Sushi,Fried rice
+612,Olive Tree,UAE Signature Eats,Dubai,,UAE,4,Nice ambience and tasty dishes.,Pierogi,Wagyu Steak,Sandwich,Coconut rice
+613,Il Forno,Italy Signature Eats,Rome,,Italy,2,Not worth the price.,Paella,Wagyu Steak,Quesadilla,Goulash
+614,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,2,Not worth the price.,Meatballs,Premium Sushi,Garlic bread,Pizza
+615,Seoul Kitchen,South Korea Signature Eats,Seoul,,South Korea,2,Food was disappointing.,Fried chicken,Royal Biryani,Poke bowl,Fried rice
+616,Fuji Grill,Japan Signature Eats,Tokyo,,Japan,3,Average food.,Nachos,Truffle Pasta,Chow mein,Waffle
+617,Il Forno,Italy Signature Eats,Rome,,Italy,1,Terrible experience.,Sandwich,Truffle Pasta,Pasta,Curry
+618,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,1,Would not recommend.,Dim sum,Wagyu Steak,Sandwich,Satay
+619,Black Forest,Germany Signature Eats,Berlin,,Germany,2,Not worth the price.,Custard,Royal Biryani,Samosa,Bibimbap
+620,Red Lotus,China Signature Eats,Beijing,,China,4,Nice ambience and tasty dishes.,Taco,Truffle Pasta,Waffle,Chocolate cake
+621,Beer Garden,Germany Signature Eats,Berlin,,Germany,1,Terrible experience.,Shawarma,Royal Biryani,Dumpling,Sushi
+622,Hanami Grill,South Korea Signature Eats,Seoul,,South Korea,4,Nice ambience and tasty dishes.,Ice cream,Wagyu Steak,Curry,Sushi
+623,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,4,Worth the price.,Ceviche,Premium Sushi,Fish and chips,Quesadilla
+624,Le Petit Cafe,France Signature Eats,Paris,,France,1,Would not recommend.,Lasagna,Wagyu Steak,Ice cream,Custard
+625,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,3,Service could be improved.,Fajita,Lobster Thermidor,Hot dog,Goulash
+626,Anatolia,UAE Signature Eats,Dubai,,UAE,1,Very poor quality.,Ramen,Lobster Thermidor,Ice cream,Burrito
+627,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,1,Terrible experience.,Fish and chips,Truffle Pasta,Pizza,Custard
+628,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,4,Nice ambience and tasty dishes.,Pancake,Lobster Thermidor,Fish curry,Mango sticky rice
+629,Sakura House,Japan Signature Eats,Tokyo,,Japan,2,Not worth the price.,Samosa,Wagyu Steak,Red curry,Pad Thai
+630,Kings Table,USA Signature Eats,New York,,USA,2,Not worth the price.,Pasta,Lobster Thermidor,Curry,Couscous
+631,Kimchi House,South Korea Signature Eats,Seoul,,South Korea,2,Not worth the price.,Spaghetti,Truffle Pasta,Kebab,Tandoori chicken
+632,Il Forno,Italy Signature Eats,Rome,,Italy,3,Service could be improved.,Croissant,Wagyu Steak,Falafel,Risotto
+633,Kimchi House,South Korea Signature Eats,Seoul,,South Korea,2,Not worth the price.,Tandoori chicken,Truffle Pasta,Pasta,Pudding
+634,Chez Pierre,France Signature Eats,Paris,,France,3,Service could be improved.,Tempura,Truffle Pasta,Roast lamb,Meatballs
+635,Copacabana Grill,Brazil Signature Eats,Rio de Janeiro,,Brazil,5,Excellent food and service.,Red curry,Wagyu Steak,Mango sticky rice,Chicken soup
+636,Anatolia,UAE Signature Eats,Dubai,,UAE,4,Worth the price.,Noodles,Premium Sushi,Falafel,Guacamole
+637,Bistro Rouge,France Signature Eats,Paris,,France,5,Highly recommended place.,Jollof rice,Royal Biryani,Apple pie,Panna cotta
+638,The Green Door,USA Signature Eats,New York,,USA,1,Would not recommend.,Lentil soup,Truffle Pasta,Noodles,Risotto
+639,La Piazza,Italy Signature Eats,Rome,,Italy,2,Below expectations.,Guacamole,Wagyu Steak,Lentil soup,Burger
+640,Istanbul Grill,UAE Signature Eats,Dubai,,UAE,5,Amazing taste and premium quality.,Guacamole,Truffle Pasta,Nachos,Nachos
+641,Garden Room,UK Signature Eats,London,,UK,3,Service could be improved.,Nachos,Wagyu Steak,Red curry,Salsa
+642,BBQ Garden,South Korea Signature Eats,Seoul,,South Korea,2,Not worth the price.,Bruschetta,Wagyu Steak,Pudding,Falafel
+643,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,2,Food was disappointing.,Sushi,Wagyu Steak,Coconut rice,Tandoori chicken
+644,The Brick House,UK Signature Eats,London,,UK,5,Amazing taste and premium quality.,Miso soup,Truffle Pasta,Grilled cheese,Pancake
+645,Olive Tree,UAE Signature Eats,Dubai,,UAE,5,Excellent food and service.,Empanada,Lobster Thermidor,Empanada,Fondue
+646,Zen Garden,Japan Signature Eats,Tokyo,,Japan,5,Excellent food and service.,Waffle,Truffle Pasta,Pad Thai,Empanada
+647,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,1,Would not recommend.,Fried rice,Lobster Thermidor,Guacamole,Satay
+648,Kimchi House,South Korea Signature Eats,Seoul,,South Korea,3,Decent experience.,Paella,Truffle Pasta,Dim sum,Guacamole
+649,Seoul Kitchen,South Korea Signature Eats,Seoul,,South Korea,1,Would not recommend.,Goulash,Premium Sushi,Tempura,Ice cream
+650,Il Forno,Italy Signature Eats,Rome,,Italy,5,Highly recommended place.,Noodles,Royal Biryani,Hot dog,Panna cotta
+651,Beer Garden,Germany Signature Eats,Berlin,,Germany,2,Food was disappointing.,Ceviche,Wagyu Steak,Naan,Fried chicken
+652,Kings Table,USA Signature Eats,New York,,USA,1,Terrible experience.,Mango sticky rice,Wagyu Steak,Green curry,Tagine
+653,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,2,Food was disappointing.,Custard,Truffle Pasta,Croissant,Tagine
+654,Jade Garden,China Signature Eats,Beijing,,China,3,Average food.,Poke bowl,Lobster Thermidor,Biryani,Fried chicken
+655,Casa Brazil,Brazil Signature Eats,Rio de Janeiro,,Brazil,5,Excellent food and service.,Sandwich,Wagyu Steak,Tempura,Poke bowl
+656,Beer Garden,Germany Signature Eats,Berlin,,Germany,1,Terrible experience.,Miso soup,Wagyu Steak,Bibimbap,Nachos
+657,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,4,Worth the price.,Kimchi stew,Truffle Pasta,Fried tofu,Tiramisu
+658,Maison Blanc,France Signature Eats,Paris,,France,3,Average food.,Meatballs,Wagyu Steak,Paella,Croissant
+659,The Copper Pot,UK Signature Eats,London,,UK,2,Below expectations.,Falafel,Wagyu Steak,Samosa,Pancake
+660,Tokyo Table,Japan Signature Eats,Tokyo,,Japan,4,Worth the price.,Pancake,Premium Sushi,Fondue,Mango sticky rice
+661,Casa Azul,Mexico Signature Eats,Mexico City,,Mexico,1,Very poor quality.,Paella,Royal Biryani,Risotto,Grilled cheese
+662,Old Mill,Germany Signature Eats,Berlin,,Germany,2,Food was disappointing.,Quesadilla,Wagyu Steak,Empanada,Chocolate cake
+663,Fuji Grill,Japan Signature Eats,Tokyo,,Japan,2,Below expectations.,Ice cream,Wagyu Steak,Pudding,Sandwich
+664,Rice & Spice,South Korea Signature Eats,Seoul,,South Korea,2,Food was disappointing.,Taco,Royal Biryani,Risotto,Chocolate cake
+665,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,3,Decent experience.,Coconut rice,Premium Sushi,Pizza,Hot dog
+666,Chez Pierre,France Signature Eats,Paris,,France,3,Average food.,Samosa,Wagyu Steak,Bruschetta,Ceviche
+667,The Brick House,UK Signature Eats,London,,UK,4,Very good food.,Ramen,Lobster Thermidor,Dim sum,Tempura
+668,Jade Garden,China Signature Eats,Beijing,,China,2,Food was disappointing.,Pancake,Lobster Thermidor,Empanada,Teriyaki chicken
+669,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,5,Excellent food and service.,Pad Thai,Lobster Thermidor,Jollof rice,Biryani
+670,Cantina Roja,Mexico Signature Eats,Mexico City,,Mexico,2,Not worth the price.,Panna cotta,Royal Biryani,Guacamole,Ice cream
+671,Chez Pierre,France Signature Eats,Paris,,France,1,Would not recommend.,Chow mein,Royal Biryani,Nachos,Ramen
+672,Red Lotus,China Signature Eats,Beijing,,China,5,Amazing taste and premium quality.,Fried chicken,Royal Biryani,Taco,Empanada
+673,Maison Blanc,France Signature Eats,Paris,,France,5,Excellent food and service.,Noodles,Premium Sushi,Burrito,Dumpling
+674,Bosphorus,UAE Signature Eats,Dubai,,UAE,5,Excellent food and service.,Fondue,Wagyu Steak,Pierogi,Pad Thai
+675,The Green Door,USA Signature Eats,New York,,USA,1,Terrible experience.,Garlic bread,Wagyu Steak,Pad Thai,Coconut rice
+676,Chez Pierre,France Signature Eats,Paris,,France,5,Excellent food and service.,Hummus,Wagyu Steak,Fondue,Salsa
+677,Bella Vita,Italy Signature Eats,Rome,,Italy,2,Below expectations.,Shawarma,Royal Biryani,Spaghetti,Kimchi stew
+678,Urban Table,Germany Signature Eats,Berlin,,Germany,1,Terrible experience.,Goulash,Truffle Pasta,Grilled cheese,Chow mein
+679,Il Forno,Italy Signature Eats,Rome,,Italy,5,Excellent food and service.,Noodles,Truffle Pasta,Nachos,Mango sticky rice
+680,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,2,Not worth the price.,Croissant,Royal Biryani,Curry,Ceviche
+681,Royal Oak,USA Signature Eats,New York,,USA,4,Nice ambience and tasty dishes.,Miso soup,Wagyu Steak,Tempura,Donut
+682,La Piazza,Italy Signature Eats,Rome,,Italy,3,Service could be improved.,Pudding,Premium Sushi,Couscous,Naan
+683,Sakura House,Japan Signature Eats,Tokyo,,Japan,2,Below expectations.,Burrito,Truffle Pasta,Noodles,Chow mein
+684,Union Jack Grill,UK Signature Eats,London,,UK,1,Would not recommend.,Empanada,Lobster Thermidor,Fried rice,Quesadilla
+685,Golden Dragon,China Signature Eats,Beijing,,China,5,Excellent food and service.,Fried rice,Lobster Thermidor,Sushi,Teriyaki chicken
+686,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,3,Decent experience.,Dim sum,Lobster Thermidor,Taco,Hot dog
+687,Golden Palm,Brazil Signature Eats,Rio de Janeiro,,Brazil,2,Food was disappointing.,Kimchi stew,Lobster Thermidor,Shawarma,Hummus
+688,The Green Door,USA Signature Eats,New York,,USA,3,Service could be improved.,Pierogi,Wagyu Steak,Kimchi stew,Fish curry
+689,Hanami Grill,South Korea Signature Eats,Seoul,,South Korea,1,Would not recommend.,Mango sticky rice,Royal Biryani,Falafel,Fish curry
+690,Bosphorus,UAE Signature Eats,Dubai,,UAE,5,Highly recommended place.,Couscous,Truffle Pasta,Shawarma,Pancake
+691,Le Petit Cafe,France Signature Eats,Paris,,France,3,Decent experience.,Tandoori chicken,Wagyu Steak,Guacamole,Hot dog
+692,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,2,Food was disappointing.,Apple pie,Premium Sushi,Samosa,Mochi
+693,Oxford Kitchen,UK Signature Eats,London,,UK,2,Food was disappointing.,Bruschetta,Lobster Thermidor,Fried rice,Shawarma
+694,Urban Table,Germany Signature Eats,Berlin,,Germany,2,Not worth the price.,Brownie,Royal Biryani,Coconut rice,Chocolate cake
+695,Berlin Kitchen,Germany Signature Eats,Berlin,,Germany,4,Very good food.,Ramen,Truffle Pasta,Spring roll,Mochi
+696,El Toro,Mexico Signature Eats,Mexico City,,Mexico,5,Amazing taste and premium quality.,Fried tofu,Lobster Thermidor,Teriyaki chicken,Coconut rice
+697,Kings Table,USA Signature Eats,New York,,USA,4,Worth the price.,Dumpling,Truffle Pasta,Nachos,Poke bowl
+698,Il Forno,Italy Signature Eats,Rome,,Italy,1,Very poor quality.,Waffle,Lobster Thermidor,Poke bowl,Spring roll
+699,Kimchi House,South Korea Signature Eats,Seoul,,South Korea,2,Below expectations.,Falafel,Royal Biryani,Coconut rice,Hummus
+700,Beer Garden,Germany Signature Eats,Berlin,,Germany,3,Service could be improved.,Garlic bread,Lobster Thermidor,Curry,Roast lamb
+701,The Copper Pot,UK Signature Eats,London,,UK,5,Highly recommended place.,Kimchi stew,Lobster Thermidor,Satay,Curry
+702,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,4,Nice ambience and tasty dishes.,Fried chicken,Royal Biryani,Ramen,Shawarma
+703,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,5,Amazing taste and premium quality.,Satay,Premium Sushi,Risotto,Spring roll
+704,Olive Tree,UAE Signature Eats,Dubai,,UAE,5,Amazing taste and premium quality.,Pancake,Royal Biryani,Curry,Tandoori chicken
+705,The Green Door,USA Signature Eats,New York,,USA,4,Nice ambience and tasty dishes.,Nachos,Truffle Pasta,Hot dog,Couscous
+706,Sakura House,Japan Signature Eats,Tokyo,,Japan,5,Highly recommended place.,Green curry,Wagyu Steak,Ceviche,Waffle
+707,Urban Table,Germany Signature Eats,Berlin,,Germany,3,Average food.,Spaghetti,Premium Sushi,Hot dog,Kebab
+708,Old Mill,Germany Signature Eats,Berlin,,Germany,5,Amazing taste and premium quality.,Jollof rice,Royal Biryani,Shawarma,Tempura
+709,Fuji Grill,Japan Signature Eats,Tokyo,,Japan,5,Amazing taste and premium quality.,Fried chicken,Lobster Thermidor,Tomato soup,Jollof rice
+710,Olive Tree,UAE Signature Eats,Dubai,,UAE,3,Average food.,Ice cream,Truffle Pasta,Goulash,Samosa
+711,Casa Roma,Italy Signature Eats,Rome,,Italy,1,Terrible experience.,Tandoori chicken,Premium Sushi,Fried chicken,Tempura
+712,Wasabi Way,Japan Signature Eats,Tokyo,,Japan,5,Excellent food and service.,Noodles,Lobster Thermidor,Samosa,Sandwich
+713,Chez Pierre,France Signature Eats,Paris,,France,2,Food was disappointing.,Pizza,Premium Sushi,Ramen,Goulash
+714,Wasabi Way,Japan Signature Eats,Tokyo,,Japan,1,Very poor quality.,Pasta,Lobster Thermidor,Miso soup,Burrito
+715,Bella Vita,Italy Signature Eats,Rome,,Italy,3,Service could be improved.,Noodles,Truffle Pasta,Apple pie,Croissant
+716,Anatolia,UAE Signature Eats,Dubai,,UAE,2,Below expectations.,Tempura,Royal Biryani,Croissant,Jollof rice
+717,The Copper Pot,UK Signature Eats,London,,UK,3,Decent experience.,Jollof rice,Lobster Thermidor,Guacamole,Dumpling
+718,Samba Kitchen,Brazil Signature Eats,Rio de Janeiro,,Brazil,2,Not worth the price.,Lasagna,Truffle Pasta,Pudding,Hot dog
+719,Red Lotus,China Signature Eats,Beijing,,China,5,Amazing taste and premium quality.,Mochi,Lobster Thermidor,Meatballs,Coconut rice
+720,Bosphorus,UAE Signature Eats,Dubai,,UAE,5,Amazing taste and premium quality.,Pierogi,Lobster Thermidor,Pudding,Fajita
+721,Rice & Spice,South Korea Signature Eats,Seoul,,South Korea,5,Highly recommended place.,Fish curry,Truffle Pasta,Fish curry,Fondue
+722,Red Lotus,China Signature Eats,Beijing,,China,1,Very poor quality.,Pasta,Premium Sushi,Fried tofu,Hot dog
+723,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,4,Nice ambience and tasty dishes.,Falafel,Wagyu Steak,Fried rice,Coconut rice
+724,Royal Oak,USA Signature Eats,New York,,USA,4,Worth the price.,Chow mein,Royal Biryani,Custard,Pancake
+725,Casa Roma,Italy Signature Eats,Rome,,Italy,3,Decent experience.,Dim sum,Wagyu Steak,Croissant,Tomato soup
+726,Copacabana Grill,Brazil Signature Eats,Rio de Janeiro,,Brazil,5,Excellent food and service.,Fajita,Lobster Thermidor,Dim sum,Quesadilla
+727,Kimchi House,South Korea Signature Eats,Seoul,,South Korea,4,Very good food.,Croissant,Wagyu Steak,Samosa,Empanada
+728,BBQ Garden,South Korea Signature Eats,Seoul,,South Korea,1,Very poor quality.,Fajita,Wagyu Steak,Fondue,Red curry
+729,Kings Table,USA Signature Eats,New York,,USA,4,Worth the price.,Poke bowl,Wagyu Steak,Grilled cheese,Pierogi
+730,Istanbul Grill,UAE Signature Eats,Dubai,,UAE,5,Excellent food and service.,Sushi,Truffle Pasta,Tagine,Risotto
+731,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,4,Worth the price.,Shawarma,Royal Biryani,Sushi,Pasta
+732,Jade Garden,China Signature Eats,Beijing,,China,5,Excellent food and service.,Paella,Wagyu Steak,Grilled cheese,Couscous
+733,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,3,Decent experience.,Teriyaki chicken,Royal Biryani,Croissant,Poke bowl
+734,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,5,Excellent food and service.,Paella,Wagyu Steak,Roast lamb,Coconut rice
+735,Kings Table,USA Signature Eats,New York,,USA,3,Service could be improved.,Biryani,Premium Sushi,Jollof rice,Couscous
+736,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,1,Terrible experience.,Burger,Royal Biryani,Chicken soup,Fajita
+737,Wasabi Way,Japan Signature Eats,Tokyo,,Japan,3,Service could be improved.,Donut,Wagyu Steak,Chocolate cake,Fish and chips
+738,Cafe Belle,France Signature Eats,Paris,,France,5,Highly recommended place.,Quesadilla,Wagyu Steak,Burger,Pad Thai
+739,Black Forest,Germany Signature Eats,Berlin,,Germany,2,Below expectations.,Pudding,Lobster Thermidor,Curry,Fried chicken
+740,Rice & Spice,South Korea Signature Eats,Seoul,,South Korea,4,Nice ambience and tasty dishes.,Sushi,Royal Biryani,Dim sum,Tempura
+741,Rio Bistro,Brazil Signature Eats,Rio de Janeiro,,Brazil,2,Below expectations.,Pasta,Royal Biryani,Custard,Teriyaki chicken
+742,London Bistro,USA Signature Eats,New York,,USA,5,Excellent food and service.,Samosa,Truffle Pasta,Coconut rice,Paella
+743,Cantina Roja,Mexico Signature Eats,Mexico City,,Mexico,2,Below expectations.,Pudding,Truffle Pasta,Bibimbap,Tempura
+744,Golden Palm,Brazil Signature Eats,Rio de Janeiro,,Brazil,5,Amazing taste and premium quality.,Cheesecake,Wagyu Steak,Grilled cheese,Kimchi stew
+745,Golden Palm,Brazil Signature Eats,Rio de Janeiro,,Brazil,5,Excellent food and service.,Waffle,Lobster Thermidor,Red curry,Pierogi
+746,BBQ Garden,South Korea Signature Eats,Seoul,,South Korea,2,Below expectations.,Couscous,Lobster Thermidor,Nachos,Grilled cheese
+747,Seoul Kitchen,South Korea Signature Eats,Seoul,,South Korea,2,Below expectations.,Chocolate cake,Wagyu Steak,Donut,Naan
+748,Kimchi House,South Korea Signature Eats,Seoul,,South Korea,3,Average food.,Ceviche,Premium Sushi,Risotto,Fried tofu
+749,Zen Garden,Japan Signature Eats,Tokyo,,Japan,2,Food was disappointing.,Burrito,Royal Biryani,Custard,Sushi
+750,Beer Garden,Germany Signature Eats,Berlin,,Germany,3,Service could be improved.,Green curry,Lobster Thermidor,Ramen,Poke bowl
+751,Cantina Roja,Mexico Signature Eats,Mexico City,,Mexico,4,Very good food.,Pad Thai,Premium Sushi,Custard,Naan
+752,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,1,Very poor quality.,Ceviche,Wagyu Steak,Crepe,Paella
+753,La Piazza,Italy Signature Eats,Rome,,Italy,1,Terrible experience.,Apple pie,Royal Biryani,Naan,Chocolate cake
+754,Royal Oak,USA Signature Eats,New York,,USA,2,Below expectations.,Dumpling,Truffle Pasta,Fish and chips,Tagine
+755,Beer Garden,Germany Signature Eats,Berlin,,Germany,5,Excellent food and service.,Crepe,Wagyu Steak,Bruschetta,Lasagna
+756,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,4,Worth the price.,Miso soup,Premium Sushi,Burger,Mochi
+757,El Toro,Mexico Signature Eats,Mexico City,,Mexico,4,Very good food.,Nachos,Wagyu Steak,Couscous,Spring roll
+758,Rio Bistro,Brazil Signature Eats,Rio de Janeiro,,Brazil,3,Service could be improved.,Donut,Truffle Pasta,Ceviche,Fried rice
+759,Wasabi Way,Japan Signature Eats,Tokyo,,Japan,3,Service could be improved.,Spaghetti,Lobster Thermidor,Fish curry,Coconut rice
+760,Maison Blanc,France Signature Eats,Paris,,France,2,Food was disappointing.,Pad Thai,Royal Biryani,Sushi,Fish and chips
+761,La Piazza,Italy Signature Eats,Rome,,Italy,2,Below expectations.,Ceviche,Truffle Pasta,Burrito,Tempura
+762,Black Forest,Germany Signature Eats,Berlin,,Germany,3,Decent experience.,Cheesecake,Premium Sushi,Empanada,Curry
+763,Anatolia,UAE Signature Eats,Dubai,,UAE,5,Amazing taste and premium quality.,Tiramisu,Lobster Thermidor,Samosa,Tagine
+764,Kimchi House,South Korea Signature Eats,Seoul,,South Korea,3,Average food.,Shawarma,Truffle Pasta,Panna cotta,Fajita
+765,The Brick House,UK Signature Eats,London,,UK,3,Service could be improved.,Spaghetti,Premium Sushi,Pierogi,Miso soup
+766,Kings Table,USA Signature Eats,New York,,USA,3,Average food.,Dumpling,Premium Sushi,Tomato soup,Shawarma
+767,Casa Brazil,Brazil Signature Eats,Rio de Janeiro,,Brazil,4,Very good food.,Hummus,Premium Sushi,Fried tofu,Ramen
+768,Turkish Delight,UAE Signature Eats,Dubai,,UAE,4,Nice ambience and tasty dishes.,Fish curry,Lobster Thermidor,Grilled cheese,Taco
+769,Hanami Grill,South Korea Signature Eats,Seoul,,South Korea,3,Decent experience.,Guacamole,Truffle Pasta,Sushi,Fried rice
+770,Golden Dragon,China Signature Eats,Beijing,,China,1,Terrible experience.,Chow mein,Premium Sushi,Lentil soup,Lentil soup
+771,BBQ Garden,South Korea Signature Eats,Seoul,,South Korea,1,Very poor quality.,Coconut rice,Wagyu Steak,Kebab,Goulash
+772,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,2,Below expectations.,Coconut rice,Premium Sushi,Roast lamb,Ceviche
+773,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,2,Below expectations.,Pierogi,Truffle Pasta,Donut,Fried chicken
+774,Bella Vita,Italy Signature Eats,Rome,,Italy,3,Service could be improved.,Jollof rice,Wagyu Steak,Pudding,Pasta
+775,Le Petit Cafe,France Signature Eats,Paris,,France,2,Food was disappointing.,Noodles,Premium Sushi,Teriyaki chicken,Shawarma
+776,Oxford Kitchen,UK Signature Eats,London,,UK,4,Worth the price.,Couscous,Premium Sushi,Spring roll,Tiramisu
+777,London Bistro,USA Signature Eats,New York,,USA,2,Food was disappointing.,Fried tofu,Premium Sushi,Tiramisu,Crepe
+778,Olive Tree,UAE Signature Eats,Dubai,,UAE,2,Food was disappointing.,Sushi,Royal Biryani,Nachos,Garlic bread
+779,Le Petit Cafe,France Signature Eats,Paris,,France,2,Not worth the price.,Guacamole,Truffle Pasta,Mango sticky rice,Tomato soup
+780,Kings Table,USA Signature Eats,New York,,USA,4,Very good food.,Risotto,Lobster Thermidor,Donut,Chocolate cake
+781,La Piazza,Italy Signature Eats,Rome,,Italy,3,Service could be improved.,Tomato soup,Truffle Pasta,Pudding,Tempura
+782,Golden Palm,Brazil Signature Eats,Rio de Janeiro,,Brazil,5,Amazing taste and premium quality.,Sandwich,Premium Sushi,Noodles,Pizza
+783,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,1,Terrible experience.,Garlic bread,Wagyu Steak,Apple pie,Teriyaki chicken
+784,Bistro Rouge,France Signature Eats,Paris,,France,5,Highly recommended place.,Hot dog,Royal Biryani,Guacamole,Burger
+785,Samba Kitchen,Brazil Signature Eats,Rio de Janeiro,,Brazil,4,Worth the price.,Ramen,Royal Biryani,Red curry,Pancake
+786,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,1,Very poor quality.,Ceviche,Truffle Pasta,Fried rice,Chow mein
+787,Istanbul Grill,UAE Signature Eats,Dubai,,UAE,5,Amazing taste and premium quality.,Salsa,Premium Sushi,Poke bowl,Biryani
+788,Maison Blanc,France Signature Eats,Paris,,France,5,Highly recommended place.,Red curry,Wagyu Steak,Taco,Quesadilla
+789,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,2,Below expectations.,Quesadilla,Royal Biryani,Coconut rice,Pasta
+790,Oxford Kitchen,UK Signature Eats,London,,UK,4,Nice ambience and tasty dishes.,Guacamole,Premium Sushi,Hummus,Burger
+791,Hanami Grill,South Korea Signature Eats,Seoul,,South Korea,4,Nice ambience and tasty dishes.,Bibimbap,Lobster Thermidor,Taco,Chow mein
+792,Zen Garden,Japan Signature Eats,Tokyo,,Japan,3,Average food.,Fried rice,Wagyu Steak,Lentil soup,Green curry
+793,Red Lotus,China Signature Eats,Beijing,,China,1,Terrible experience.,Goulash,Premium Sushi,Fish and chips,Chocolate cake
+794,Royal Oak,USA Signature Eats,New York,,USA,4,Nice ambience and tasty dishes.,Mango sticky rice,Premium Sushi,Red curry,Satay
+795,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,2,Not worth the price.,Paella,Premium Sushi,Couscous,Tempura
+796,Casa Roma,Italy Signature Eats,Rome,,Italy,3,Service could be improved.,Custard,Royal Biryani,Chicken soup,Roast lamb
+797,La Piazza,Italy Signature Eats,Rome,,Italy,1,Terrible experience.,Samosa,Premium Sushi,Bruschetta,Tempura
+798,Copacabana Grill,Brazil Signature Eats,Rio de Janeiro,,Brazil,1,Terrible experience.,Goulash,Premium Sushi,Paella,Fajita
+799,Cafe Belle,France Signature Eats,Paris,,France,3,Service could be improved.,Chocolate cake,Lobster Thermidor,Couscous,Coconut rice
+800,Tokyo Table,Japan Signature Eats,Tokyo,,Japan,4,Worth the price.,Tagine,Truffle Pasta,Chicken soup,Burrito
+801,Garden Room,UK Signature Eats,London,,UK,4,Nice ambience and tasty dishes.,Fajita,Truffle Pasta,Fried rice,Pancake
+802,Jade Garden,China Signature Eats,Beijing,,China,1,Very poor quality.,Waffle,Premium Sushi,Pancake,Couscous
+803,Bella Vita,Italy Signature Eats,Rome,,Italy,3,Decent experience.,Naan,Wagyu Steak,Pizza,Panna cotta
+804,Kimchi House,South Korea Signature Eats,Seoul,,South Korea,4,Nice ambience and tasty dishes.,Garlic bread,Wagyu Steak,Meatballs,Cheesecake
+805,Istanbul Grill,UAE Signature Eats,Dubai,,UAE,4,Nice ambience and tasty dishes.,Samosa,Premium Sushi,Mango sticky rice,Nachos
+806,Jade Garden,China Signature Eats,Beijing,,China,4,Nice ambience and tasty dishes.,Satay,Premium Sushi,Couscous,Burrito
+807,Casa Brazil,Brazil Signature Eats,Rio de Janeiro,,Brazil,3,Service could be improved.,Mango sticky rice,Truffle Pasta,Brownie,Biryani
+808,Urban Table,Germany Signature Eats,Berlin,,Germany,4,Very good food.,Sushi,Lobster Thermidor,Fried tofu,Apple pie
+809,London Bistro,USA Signature Eats,New York,,USA,2,Not worth the price.,Poke bowl,Lobster Thermidor,Fried tofu,Sandwich
+810,Anatolia,UAE Signature Eats,Dubai,,UAE,3,Decent experience.,Miso soup,Premium Sushi,Pudding,Grilled cheese
+811,La Fiesta,Mexico Signature Eats,Mexico City,,Mexico,2,Not worth the price.,Custard,Royal Biryani,Bibimbap,Mango sticky rice
+812,Istanbul Grill,UAE Signature Eats,Dubai,,UAE,2,Below expectations.,Biryani,Premium Sushi,Bruschetta,Sushi
+813,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,2,Food was disappointing.,Apple pie,Lobster Thermidor,Couscous,Donut
+814,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,3,Service could be improved.,Paella,Truffle Pasta,Tandoori chicken,Burrito
+815,Bella Vita,Italy Signature Eats,Rome,,Italy,2,Food was disappointing.,Dim sum,Premium Sushi,Croissant,Fried rice
+816,Urban Table,Germany Signature Eats,Berlin,,Germany,4,Very good food.,Satay,Lobster Thermidor,Garlic bread,Shawarma
+817,Chez Pierre,France Signature Eats,Paris,,France,1,Would not recommend.,Panna cotta,Premium Sushi,Cheesecake,Burger
+818,Sakura House,Japan Signature Eats,Tokyo,,Japan,3,Average food.,Spring roll,Lobster Thermidor,Miso soup,Chicken soup
+819,Golden Dragon,China Signature Eats,Beijing,,China,2,Below expectations.,Grilled cheese,Wagyu Steak,Fondue,Mango sticky rice
+820,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,1,Would not recommend.,Fried chicken,Truffle Pasta,Burrito,Burger
+821,Lucky Panda,China Signature Eats,Beijing,,China,4,Worth the price.,Kimchi stew,Wagyu Steak,Guacamole,Sushi
+822,Tokyo Table,Japan Signature Eats,Tokyo,,Japan,3,Decent experience.,Panna cotta,Royal Biryani,Noodles,Brownie
+823,Rice & Spice,South Korea Signature Eats,Seoul,,South Korea,2,Below expectations.,Custard,Truffle Pasta,Custard,Pancake
+824,Samba Kitchen,Brazil Signature Eats,Rio de Janeiro,,Brazil,5,Excellent food and service.,Miso soup,Wagyu Steak,Sushi,Noodles
+825,Copacabana Grill,Brazil Signature Eats,Rio de Janeiro,,Brazil,1,Very poor quality.,Grilled cheese,Premium Sushi,Chicken soup,Fish and chips
+826,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,2,Not worth the price.,Lentil soup,Wagyu Steak,Waffle,Spring roll
+827,Kings Table,USA Signature Eats,New York,,USA,3,Service could be improved.,Poke bowl,Royal Biryani,Hot dog,Chow mein
+828,Olive Tree,UAE Signature Eats,Dubai,,UAE,5,Excellent food and service.,Coconut rice,Premium Sushi,Goulash,Burger
+829,Dragon Pearl,China Signature Eats,Beijing,,China,4,Nice ambience and tasty dishes.,Fondue,Truffle Pasta,Biryani,Coconut rice
+830,La Piazza,Italy Signature Eats,Rome,,Italy,5,Excellent food and service.,Fish curry,Royal Biryani,Cheesecake,Waffle
+831,Olive Tree,UAE Signature Eats,Dubai,,UAE,5,Highly recommended place.,Spring roll,Royal Biryani,Pizza,Coconut rice
+832,The Copper Pot,UK Signature Eats,London,,UK,5,Excellent food and service.,Waffle,Truffle Pasta,Jollof rice,Kimchi stew
+833,Casa Brazil,Brazil Signature Eats,Rio de Janeiro,,Brazil,4,Nice ambience and tasty dishes.,Croissant,Premium Sushi,Curry,Grilled cheese
+834,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,5,Highly recommended place.,Green curry,Lobster Thermidor,Dumpling,Naan
+835,Istanbul Grill,UAE Signature Eats,Dubai,,UAE,3,Decent experience.,Croissant,Royal Biryani,Green curry,Bruschetta
+836,London Bistro,USA Signature Eats,New York,,USA,3,Decent experience.,Pasta,Lobster Thermidor,Pancake,Dumpling
+837,Golden Dragon,China Signature Eats,Beijing,,China,2,Not worth the price.,Fajita,Wagyu Steak,Pasta,Nachos
+838,Berlin Kitchen,Germany Signature Eats,Berlin,,Germany,4,Worth the price.,Meatballs,Wagyu Steak,Fried rice,Red curry
+839,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,1,Very poor quality.,Tandoori chicken,Lobster Thermidor,Jollof rice,Cheesecake
+840,Golden Dragon,China Signature Eats,Beijing,,China,1,Terrible experience.,Chocolate cake,Premium Sushi,Sushi,Dim sum
+841,El Toro,Mexico Signature Eats,Mexico City,,Mexico,4,Nice ambience and tasty dishes.,Green curry,Wagyu Steak,Naan,Nachos
+842,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,5,Highly recommended place.,Garlic bread,Royal Biryani,Pancake,Biryani
+843,Wasabi Way,Japan Signature Eats,Tokyo,,Japan,2,Below expectations.,Shawarma,Royal Biryani,Jollof rice,Fajita
+844,Olive Tree,UAE Signature Eats,Dubai,,UAE,1,Very poor quality.,Empanada,Lobster Thermidor,Fajita,Tandoori chicken
+845,Cafe Belle,France Signature Eats,Paris,,France,2,Not worth the price.,Risotto,Lobster Thermidor,Spaghetti,Couscous
+846,Fuji Grill,Japan Signature Eats,Tokyo,,Japan,2,Not worth the price.,Mango sticky rice,Premium Sushi,Poke bowl,Fish curry
+847,Lucky Panda,China Signature Eats,Beijing,,China,5,Excellent food and service.,Tempura,Lobster Thermidor,Roast lamb,Miso soup
+848,Berlin Kitchen,Germany Signature Eats,Berlin,,Germany,2,Not worth the price.,Empanada,Royal Biryani,Samosa,Taco
+849,Dragon Pearl,China Signature Eats,Beijing,,China,2,Not worth the price.,Curry,Premium Sushi,Pierogi,Samosa
+850,Olive Tree,UAE Signature Eats,Dubai,,UAE,3,Average food.,Ceviche,Premium Sushi,Curry,Lentil soup
+851,Bella Vita,Italy Signature Eats,Rome,,Italy,1,Would not recommend.,Green curry,Premium Sushi,Dumpling,Taco
+852,Cantina Roja,Mexico Signature Eats,Mexico City,,Mexico,1,Terrible experience.,Tandoori chicken,Premium Sushi,Ramen,Goulash
+853,Casa Brazil,Brazil Signature Eats,Rio de Janeiro,,Brazil,2,Food was disappointing.,Ice cream,Wagyu Steak,Fajita,Pierogi
+854,Bistro Rouge,France Signature Eats,Paris,,France,3,Decent experience.,Kimchi stew,Wagyu Steak,Falafel,Tempura
+855,Bella Vita,Italy Signature Eats,Rome,,Italy,4,Very good food.,Paella,Premium Sushi,Curry,Sushi
+856,Berlin Kitchen,Germany Signature Eats,Berlin,,Germany,2,Food was disappointing.,Custard,Wagyu Steak,Fried rice,Fish and chips
+857,Red Lotus,China Signature Eats,Beijing,,China,1,Would not recommend.,Croissant,Wagyu Steak,Quesadilla,Pancake
+858,Old Mill,Germany Signature Eats,Berlin,,Germany,3,Service could be improved.,Kimchi stew,Wagyu Steak,Tiramisu,Naan
+859,Casa Brazil,Brazil Signature Eats,Rio de Janeiro,,Brazil,1,Would not recommend.,Samosa,Premium Sushi,Ramen,Sushi
+860,The Ivy Room,USA Signature Eats,New York,,USA,4,Nice ambience and tasty dishes.,Biryani,Truffle Pasta,Roast lamb,Cheesecake
+861,Il Forno,Italy Signature Eats,Rome,,Italy,1,Terrible experience.,Fried rice,Wagyu Steak,Fried rice,Dim sum
+862,Bella Vita,Italy Signature Eats,Rome,,Italy,1,Would not recommend.,Sushi,Wagyu Steak,Chocolate cake,Pizza
+863,Red Lotus,China Signature Eats,Beijing,,China,1,Terrible experience.,Pudding,Wagyu Steak,Fondue,Empanada
+864,Rice & Spice,South Korea Signature Eats,Seoul,,South Korea,4,Nice ambience and tasty dishes.,Dumpling,Wagyu Steak,Taco,Empanada
+865,London Bistro,USA Signature Eats,New York,,USA,5,Highly recommended place.,Custard,Premium Sushi,Kebab,Sandwich
+866,El Toro,Mexico Signature Eats,Mexico City,,Mexico,4,Nice ambience and tasty dishes.,Naan,Royal Biryani,Tagine,Chow mein
+867,Jade Garden,China Signature Eats,Beijing,,China,5,Excellent food and service.,Grilled cheese,Royal Biryani,Spring roll,Empanada
+868,Tokyo Table,Japan Signature Eats,Tokyo,,Japan,1,Very poor quality.,Waffle,Wagyu Steak,Waffle,Cheesecake
+869,Sakura House,Japan Signature Eats,Tokyo,,Japan,5,Excellent food and service.,Chow mein,Lobster Thermidor,Hot dog,Hot dog
+870,Cafe Belle,France Signature Eats,Paris,,France,4,Nice ambience and tasty dishes.,Bibimbap,Lobster Thermidor,Pizza,Pizza
+871,Olive Tree,UAE Signature Eats,Dubai,,UAE,3,Average food.,Spring roll,Lobster Thermidor,Burrito,Bruschetta
+872,La Fiesta,Mexico Signature Eats,Mexico City,,Mexico,5,Excellent food and service.,Dumpling,Royal Biryani,Panna cotta,Kimchi stew
+873,Rice & Spice,South Korea Signature Eats,Seoul,,South Korea,4,Worth the price.,Empanada,Royal Biryani,Hot dog,Hot dog
+874,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,5,Amazing taste and premium quality.,Noodles,Wagyu Steak,Shawarma,Biryani
+875,La Fiesta,Mexico Signature Eats,Mexico City,,Mexico,3,Decent experience.,Sandwich,Truffle Pasta,Samosa,Croissant
+876,Olive Tree,UAE Signature Eats,Dubai,,UAE,4,Nice ambience and tasty dishes.,Panna cotta,Lobster Thermidor,Pudding,Naan
+877,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,2,Not worth the price.,Cheesecake,Lobster Thermidor,Tomato soup,Mochi
+878,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,4,Very good food.,Tiramisu,Royal Biryani,Pasta,Pancake
+879,Royal Oak,USA Signature Eats,New York,,USA,3,Average food.,Biryani,Royal Biryani,Empanada,Mochi
+880,Red Lotus,China Signature Eats,Beijing,,China,5,Highly recommended place.,Miso soup,Premium Sushi,Spaghetti,Fried chicken
+881,Maison Blanc,France Signature Eats,Paris,,France,4,Nice ambience and tasty dishes.,Pasta,Truffle Pasta,Fajita,Tiramisu
+882,Wasabi Way,Japan Signature Eats,Tokyo,,Japan,3,Average food.,Empanada,Premium Sushi,Roast lamb,Falafel
+883,Kings Table,USA Signature Eats,New York,,USA,5,Highly recommended place.,Burrito,Royal Biryani,Goulash,Salsa
+884,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,2,Not worth the price.,Roast lamb,Royal Biryani,Shawarma,Spaghetti
+885,Casa Azul,Mexico Signature Eats,Mexico City,,Mexico,3,Service could be improved.,Teriyaki chicken,Wagyu Steak,Spring roll,Ramen
+886,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,1,Terrible experience.,Cheesecake,Premium Sushi,Paella,Falafel
+887,Casa Roma,Italy Signature Eats,Rome,,Italy,1,Would not recommend.,Mango sticky rice,Truffle Pasta,Taco,Coconut rice
+888,Istanbul Grill,UAE Signature Eats,Dubai,,UAE,1,Very poor quality.,Chocolate cake,Premium Sushi,Ceviche,Fish and chips
+889,Samba Kitchen,Brazil Signature Eats,Rio de Janeiro,,Brazil,4,Very good food.,Pad Thai,Royal Biryani,Tagine,Cheesecake
+890,Zen Garden,Japan Signature Eats,Tokyo,,Japan,2,Food was disappointing.,Ice cream,Truffle Pasta,Chow mein,Fish and chips
+891,The Ivy Room,USA Signature Eats,New York,,USA,3,Average food.,Taco,Royal Biryani,Ice cream,Lasagna
+892,London Bistro,USA Signature Eats,New York,,USA,2,Below expectations.,Teriyaki chicken,Wagyu Steak,Paella,Jollof rice
+893,Rio Bistro,Brazil Signature Eats,Rio de Janeiro,,Brazil,1,Would not recommend.,Bibimbap,Wagyu Steak,Pizza,Fondue
+894,Sakura House,Japan Signature Eats,Tokyo,,Japan,5,Amazing taste and premium quality.,Goulash,Lobster Thermidor,Lasagna,Lentil soup
+895,Hanami Grill,South Korea Signature Eats,Seoul,,South Korea,5,Highly recommended place.,Meatballs,Lobster Thermidor,Cheesecake,Chow mein
+896,Royal Oak,USA Signature Eats,New York,,USA,3,Average food.,Lasagna,Wagyu Steak,Sushi,Risotto
+897,La Fiesta,Mexico Signature Eats,Mexico City,,Mexico,3,Average food.,Chocolate cake,Truffle Pasta,Curry,Apple pie
+898,BBQ Garden,South Korea Signature Eats,Seoul,,South Korea,2,Below expectations.,Apple pie,Royal Biryani,Tagine,Fish and chips
+899,Old Mill,Germany Signature Eats,Berlin,,Germany,1,Would not recommend.,Jollof rice,Lobster Thermidor,Noodles,Pierogi
+900,Olive Tree,UAE Signature Eats,Dubai,,UAE,4,Nice ambience and tasty dishes.,Samosa,Premium Sushi,Lentil soup,Falafel
+901,Tokyo Table,Japan Signature Eats,Tokyo,,Japan,4,Very good food.,Quesadilla,Premium Sushi,Fried rice,Brownie
+902,Bella Vita,Italy Signature Eats,Rome,,Italy,3,Average food.,Apple pie,Royal Biryani,Spring roll,Ramen
+903,Golden Dragon,China Signature Eats,Beijing,,China,1,Terrible experience.,Tiramisu,Truffle Pasta,Chow mein,Croissant
+904,Cantina Roja,Mexico Signature Eats,Mexico City,,Mexico,1,Very poor quality.,Chocolate cake,Wagyu Steak,Spaghetti,Tagine
+905,Oxford Kitchen,UK Signature Eats,London,,UK,5,Excellent food and service.,Mochi,Royal Biryani,Hummus,Falafel
+906,Bosphorus,UAE Signature Eats,Dubai,,UAE,2,Not worth the price.,Salsa,Truffle Pasta,Dumpling,Pudding
+907,Cantina Roja,Mexico Signature Eats,Mexico City,,Mexico,4,Very good food.,Brownie,Truffle Pasta,Goulash,Paella
+908,Samba Kitchen,Brazil Signature Eats,Rio de Janeiro,,Brazil,5,Excellent food and service.,Guacamole,Truffle Pasta,Crepe,Curry
+909,Cafe Belle,France Signature Eats,Paris,,France,5,Excellent food and service.,Satay,Wagyu Steak,Tomato soup,Empanada
+910,Amigo Grill,Mexico Signature Eats,Mexico City,,Mexico,1,Terrible experience.,Lentil soup,Lobster Thermidor,Biryani,Chocolate cake
+911,Seoul Kitchen,South Korea Signature Eats,Seoul,,South Korea,3,Service could be improved.,Paella,Royal Biryani,Coconut rice,Paella
+912,Maison Blanc,France Signature Eats,Paris,,France,4,Nice ambience and tasty dishes.,Lasagna,Lobster Thermidor,Chow mein,Ceviche
+913,BBQ Garden,South Korea Signature Eats,Seoul,,South Korea,5,Amazing taste and premium quality.,Chow mein,Lobster Thermidor,Sandwich,Hot dog
+914,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,1,Would not recommend.,Samosa,Royal Biryani,Mochi,Quesadilla
+915,Il Forno,Italy Signature Eats,Rome,,Italy,3,Decent experience.,Tiramisu,Premium Sushi,Miso soup,Taco
+916,Amigo Grill,Mexico Signature Eats,Mexico City,,Mexico,3,Service could be improved.,Crepe,Royal Biryani,Nachos,Garlic bread
+917,Berlin Kitchen,Germany Signature Eats,Berlin,,Germany,3,Service could be improved.,Lentil soup,Premium Sushi,Nachos,Fish and chips
+918,Hanami Grill,South Korea Signature Eats,Seoul,,South Korea,4,Very good food.,Green curry,Premium Sushi,Salsa,Roast lamb
+919,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,3,Average food.,Sushi,Premium Sushi,Mochi,Burrito
+920,The Ivy Room,USA Signature Eats,New York,,USA,3,Service could be improved.,Hot dog,Lobster Thermidor,Kebab,Poke bowl
+921,Turkish Delight,UAE Signature Eats,Dubai,,UAE,4,Very good food.,Pudding,Lobster Thermidor,Cheesecake,Miso soup
+922,Istanbul Grill,UAE Signature Eats,Dubai,,UAE,5,Highly recommended place.,Falafel,Lobster Thermidor,Green curry,Curry
+923,Jade Garden,China Signature Eats,Beijing,,China,3,Decent experience.,Tandoori chicken,Premium Sushi,Tagine,Spaghetti
+924,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,3,Average food.,Taco,Royal Biryani,Tempura,Fried chicken
+925,Lucky Panda,China Signature Eats,Beijing,,China,3,Service could be improved.,Garlic bread,Royal Biryani,Falafel,Biryani
+926,Casa Brazil,Brazil Signature Eats,Rio de Janeiro,,Brazil,2,Food was disappointing.,Apple pie,Premium Sushi,Dim sum,Pizza
+927,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,3,Average food.,Custard,Truffle Pasta,Bruschetta,Sushi
+928,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,3,Decent experience.,Burger,Truffle Pasta,Mochi,Cheesecake
+929,Samba Kitchen,Brazil Signature Eats,Rio de Janeiro,,Brazil,2,Food was disappointing.,Noodles,Royal Biryani,Waffle,Fish and chips
+930,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,2,Below expectations.,Dim sum,Royal Biryani,Coconut rice,Pizza
+931,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,2,Food was disappointing.,Satay,Wagyu Steak,Kebab,Ramen
+932,Le Petit Cafe,France Signature Eats,Paris,,France,3,Average food.,Burrito,Truffle Pasta,Lentil soup,Samosa
+933,The Ivy Room,USA Signature Eats,New York,,USA,5,Amazing taste and premium quality.,Pierogi,Truffle Pasta,Ramen,Green curry
+934,Urban Table,Germany Signature Eats,Berlin,,Germany,1,Would not recommend.,Tiramisu,Truffle Pasta,Pad Thai,Noodles
+935,Kings Table,USA Signature Eats,New York,,USA,5,Excellent food and service.,Pierogi,Lobster Thermidor,Quesadilla,Garlic bread
+936,Urban Table,Germany Signature Eats,Berlin,,Germany,5,Highly recommended place.,Couscous,Truffle Pasta,Cheesecake,Bruschetta
+937,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,5,Highly recommended place.,Risotto,Wagyu Steak,Bruschetta,Crepe
+938,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,1,Very poor quality.,Pudding,Premium Sushi,Garlic bread,Pizza
+939,Sakura House,Japan Signature Eats,Tokyo,,Japan,5,Highly recommended place.,Spring roll,Royal Biryani,Risotto,Custard
+940,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,3,Decent experience.,Croissant,Wagyu Steak,Couscous,Kimchi stew
+941,Casa Azul,Mexico Signature Eats,Mexico City,,Mexico,4,Very good food.,Ice cream,Premium Sushi,Cheesecake,Coconut rice
+942,Turkish Delight,UAE Signature Eats,Dubai,,UAE,3,Decent experience.,Fried chicken,Premium Sushi,Ceviche,Kimchi stew
+943,Bistro Rouge,France Signature Eats,Paris,,France,2,Not worth the price.,Tandoori chicken,Royal Biryani,Tempura,Pierogi
+944,Rice & Spice,South Korea Signature Eats,Seoul,,South Korea,3,Decent experience.,Fried rice,Truffle Pasta,Hummus,Tempura
+945,Black Forest,Germany Signature Eats,Berlin,,Germany,1,Would not recommend.,Naan,Wagyu Steak,Shawarma,Biryani
+946,Olive Tree,UAE Signature Eats,Dubai,,UAE,4,Nice ambience and tasty dishes.,Fondue,Royal Biryani,Panna cotta,Tempura
+947,Chez Pierre,France Signature Eats,Paris,,France,4,Worth the price.,Ceviche,Truffle Pasta,Grilled cheese,Bibimbap
+948,Il Forno,Italy Signature Eats,Rome,,Italy,2,Not worth the price.,Brownie,Wagyu Steak,Empanada,Tempura
+949,Il Forno,Italy Signature Eats,Rome,,Italy,3,Service could be improved.,Lentil soup,Royal Biryani,Waffle,Pad Thai
+950,Royal Oak,USA Signature Eats,New York,,USA,1,Terrible experience.,Tempura,Lobster Thermidor,Croissant,Tandoori chicken
+951,Istanbul Grill,UAE Signature Eats,Dubai,,UAE,3,Decent experience.,Tandoori chicken,Truffle Pasta,Hummus,Chocolate cake
+952,Berlin Kitchen,Germany Signature Eats,Berlin,,Germany,1,Would not recommend.,Custard,Truffle Pasta,Mango sticky rice,Meatballs
+953,Kimchi House,South Korea Signature Eats,Seoul,,South Korea,1,Would not recommend.,Bibimbap,Lobster Thermidor,Bruschetta,Kebab
+954,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,1,Terrible experience.,Samosa,Royal Biryani,Teriyaki chicken,Empanada
+955,Cafe Belle,France Signature Eats,Paris,,France,3,Service could be improved.,Meatballs,Premium Sushi,Ice cream,Brownie
+956,Kings Table,USA Signature Eats,New York,,USA,2,Below expectations.,Paella,Premium Sushi,Naan,Ramen
+957,Cafe Belle,France Signature Eats,Paris,,France,1,Very poor quality.,Lentil soup,Premium Sushi,Tomato soup,Samosa
+958,El Toro,Mexico Signature Eats,Mexico City,,Mexico,5,Amazing taste and premium quality.,Tempura,Royal Biryani,Noodles,Tiramisu
+959,The Green Door,USA Signature Eats,New York,,USA,1,Would not recommend.,Fried tofu,Royal Biryani,Garlic bread,Chow mein
+960,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,5,Excellent food and service.,Pad Thai,Truffle Pasta,Ice cream,Salsa
+961,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,3,Service could be improved.,Fondue,Royal Biryani,Salsa,Panna cotta
+962,Madrid Fine Dine,Spain Signature Eats,Madrid,,Spain,4,Worth the price.,Tempura,Premium Sushi,Couscous,Sushi
+963,Maison Blanc,France Signature Eats,Paris,,France,5,Amazing taste and premium quality.,Risotto,Truffle Pasta,Teriyaki chicken,Mochi
+964,Urban Table,Germany Signature Eats,Berlin,,Germany,1,Would not recommend.,Hummus,Truffle Pasta,Meatballs,Burrito
+965,Seoul Kitchen,South Korea Signature Eats,Seoul,,South Korea,2,Food was disappointing.,Falafel,Wagyu Steak,Kebab,Tagine
+966,Amigo Grill,Mexico Signature Eats,Mexico City,,Mexico,4,Worth the price.,Couscous,Premium Sushi,Pasta,Mochi
+967,Urban Table,Germany Signature Eats,Berlin,,Germany,5,Highly recommended place.,Mochi,Lobster Thermidor,Roast lamb,Tagine
+968,Rio Bistro,Brazil Signature Eats,Rio de Janeiro,,Brazil,2,Below expectations.,Waffle,Lobster Thermidor,Teriyaki chicken,Pancake
+969,Beer Garden,Germany Signature Eats,Berlin,,Germany,4,Worth the price.,Fondue,Lobster Thermidor,Ramen,Pizza
+970,BBQ Garden,South Korea Signature Eats,Seoul,,South Korea,1,Terrible experience.,Mango sticky rice,Royal Biryani,Lasagna,Lasagna
+971,Bosphorus,UAE Signature Eats,Dubai,,UAE,2,Not worth the price.,Guacamole,Wagyu Steak,Biryani,Fish curry
+972,Golden Dragon,China Signature Eats,Beijing,,China,5,Excellent food and service.,Pasta,Lobster Thermidor,Roast lamb,Pierogi
+973,Toronto Fine Dine,Canada Signature Eats,Toronto,,Canada,2,Not worth the price.,Shawarma,Lobster Thermidor,Burrito,Miso soup
+974,Samba Kitchen,Brazil Signature Eats,Rio de Janeiro,,Brazil,5,Highly recommended place.,Tiramisu,Royal Biryani,Fish curry,Panna cotta
+975,London Bistro,USA Signature Eats,New York,,USA,4,Worth the price.,Fried rice,Wagyu Steak,Burger,Roast lamb
+976,Il Forno,Italy Signature Eats,Rome,,Italy,4,Nice ambience and tasty dishes.,Poke bowl,Premium Sushi,Dumpling,Spring roll
+977,Tokyo Table,Japan Signature Eats,Tokyo,,Japan,4,Nice ambience and tasty dishes.,Pudding,Royal Biryani,Chicken soup,Mango sticky rice
+978,La Fiesta,Mexico Signature Eats,Mexico City,,Mexico,1,Terrible experience.,Miso soup,Premium Sushi,Fish and chips,Falafel
+979,Trattoria Uno,Italy Signature Eats,Rome,,Italy,3,Average food.,Hummus,Truffle Pasta,Sandwich,Custard
+980,Rice & Spice,South Korea Signature Eats,Seoul,,South Korea,2,Below expectations.,Red curry,Royal Biryani,Grilled cheese,Croissant
+981,Golden Palm,Brazil Signature Eats,Rio de Janeiro,,Brazil,4,Worth the price.,Chocolate cake,Premium Sushi,Tagine,Quesadilla
+982,Cantina Roja,Mexico Signature Eats,Mexico City,,Mexico,1,Very poor quality.,Ice cream,Premium Sushi,Fish and chips,Mochi
+983,Beer Garden,Germany Signature Eats,Berlin,,Germany,2,Below expectations.,Green curry,Premium Sushi,Kimchi stew,Mochi
+984,Rice & Spice,South Korea Signature Eats,Seoul,,South Korea,2,Not worth the price.,Quesadilla,Truffle Pasta,Sandwich,Dumpling
+985,Black Forest,Germany Signature Eats,Berlin,,Germany,5,Excellent food and service.,Spring roll,Lobster Thermidor,Chocolate cake,Biryani
+986,Golden Dragon,China Signature Eats,Beijing,,China,2,Below expectations.,Fish and chips,Truffle Pasta,Noodles,Ceviche
+987,La Piazza,Italy Signature Eats,Rome,,Italy,1,Would not recommend.,Tomato soup,Premium Sushi,Ceviche,Pierogi
+988,Sydney Fine Dine,Australia Signature Eats,Sydney,,Australia,1,Would not recommend.,Meatballs,Truffle Pasta,Ramen,Spaghetti
+989,Istanbul Grill,UAE Signature Eats,Dubai,,UAE,2,Below expectations.,Bibimbap,Lobster Thermidor,Pizza,Mochi
+990,London Bistro,USA Signature Eats,New York,,USA,3,Average food.,Miso soup,Royal Biryani,Spaghetti,Nachos
+991,Beer Garden,Germany Signature Eats,Berlin,,Germany,5,Excellent food and service.,Pudding,Lobster Thermidor,Tagine,Couscous
+992,Le Petit Cafe,France Signature Eats,Paris,,France,2,Food was disappointing.,Jollof rice,Truffle Pasta,Fried rice,Lasagna
+993,Lucky Panda,China Signature Eats,Beijing,,China,2,Below expectations.,Pizza,Premium Sushi,Meatballs,Quesadilla
+994,Trattoria Uno,Italy Signature Eats,Rome,,Italy,2,Not worth the price.,Fried tofu,Wagyu Steak,Green curry,Miso soup
+995,Bistro Rouge,France Signature Eats,Paris,,France,2,Below expectations.,Lasagna,Wagyu Steak,Sushi,Poke bowl
+996,Wasabi Way,Japan Signature Eats,Tokyo,,Japan,4,Very good food.,Lentil soup,Royal Biryani,Kimchi stew,Mochi
+997,Turkish Delight,UAE Signature Eats,Dubai,,UAE,3,Service could be improved.,Salsa,Wagyu Steak,Roast lamb,Cheesecake
+998,Urban Table,Germany Signature Eats,Berlin,,Germany,5,Amazing taste and premium quality.,Chocolate cake,Royal Biryani,Apple pie,Burrito
+999,La Piazza,Italy Signature Eats,Rome,,Italy,5,Excellent food and service.,Ceviche,Premium Sushi,Green curry,Curry
+1000,Old Mill,Germany Signature Eats,Berlin,,Germany,5,Excellent food and service.,Panna cotta,Wagyu Steak,Noodles,Pasta
