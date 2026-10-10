@@ -40,3 +40,9 @@ Developed a RAG-based AI Conversational Agent that answers customer queries usin
 - Vector Database
 - AI/ML
 
+  ---
+  
+## 🚀 Future Enhancements
+
+- 🤖 Advanced AI Model Integration – Improve response accuracy by integrating more powerful Large Language Models (LLMs).
+- 🌐 Multi-Language Support – Enable conversations in multiple languages for better user accessibility.
